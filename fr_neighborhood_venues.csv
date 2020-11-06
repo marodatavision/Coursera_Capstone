@@ -1,0 +1,963 @@
+,PLZ,Venue_Name,Category,Latitude,Longitude,Address,Distance
+0,60306,Opernplatz,Plaza,50.11539915869597,8.67177193944527,"Opernplatz, 60313 Frankfurt am Main",139
+1,60306,Alte Oper,Opera House,50.1153503683284,8.671428058396787,"Opernplatz 1, 60313 Frankfurt am Main",123
+2,60306,Manufactum brot&butter,Food & Drink Shop,50.11595805369511,8.670772486206868,"Bockenheimer Anlage 49-50, 60322 Frankfurt am Main",46
+3,60306,Sofitel Frankfurt Opera,Hotel,50.116018757612316,8.67358462302991,"Opernplatz 16, 60313 Frankfurt am Main",244
+4,60306,ZENZAKAN - Pan Asian Supperclub,Asian Restaurant,50.11486697455312,8.669458092164287,"Taunusanlage 15, 60325 Frankfurt am Main",146
+5,60306,The Ivory Club,Indian Restaurant,50.114309,8.669109,"Taunusanlage 15 (Ecke Guiollettstraße), 60325 Frankfurt am Main",213
+6,60306,Moriki,Japanese Restaurant,50.113862743413954,8.669529906483975,"Taunusanlage 12, 60325 Frankfurt am Main",253
+7,60306,L'Art Sucré,Dessert Shop,50.11453790985073,8.674392700195312,"Große Bockenheimer Str. 25, 60313 Frankfurt am Main",348
+8,60306,MEYER Feinkost Frankfurt,Gourmet Shop,50.11481896138156,8.673397530039969,"Große Bockenheimer Str. 52, 60313 Frankfurt am Main",271
+9,60306,Brunnen auf dem Opernplatz,Fountain,50.11531237728991,8.671781028769475,"Opernplatz, Frankfurt am Main",145
+10,60306,Main Tower Aussichtsplattform,Scenic Lookout,50.1123982071476,8.672246932983398,"Neue Mainzer Str. 52-58, 60311 Frankfurt am Main",438
+11,60306,Park an der Bockenheimer Anlage,Park,50.11715220780558,8.675755262374878,"Bockenheimer Anlage, Frankfurt am Main",415
+12,60306,Mon Amie Maxi,French Restaurant,50.11650277308419,8.667199372838764,60325 Frankfurt am Main,215
+13,60306,Meyer's Restaurant & Bar,Steakhouse,50.11483591375196,8.67331881784371,"Große Bockenheimer Str. 52, 60313 Frankfurt am Main",266
+14,60306,Apple Große Bockenheimer Straße,Electronics Store,50.11473742709421,8.674963340163231,"GroßE Bockenheimer StraßE 30, 60313 Frankfurt am Main",375
+15,60306,Prime Time Fitness,Gym,50.11758917309609,8.666661571867992,"Bockenheimer Landstraße 24 (Liebigstrasse), 60323 Frankfurt am Main",299
+16,60306,Buffalo Steakhaus,Steakhouse,50.11582861005635,8.675350588347488,"Kaiserhofstr. 18, 60313 Frankfurt am Main",371
+17,60306,La Cantine Cafe & Bistro,Bistro,50.11575119094374,8.668751429280487,"Bockenheimer Landstr.19, 60325 Frankfurt am Main",108
+18,60306,Main Tower,Building,50.112463908854465,8.67218450782933,"Neue Mainzer Str. 52-58, 60311 Frankfurt am Main",430
+19,60306,Operncafé,Italian Restaurant,50.11542997880997,8.671891902243786,"Opernplatz 10, 60313 Frankfurt am Main",144
+20,60306,Fitness First Black Label Club,Gym / Fitness Center,50.11808612806262,8.671499084655807,"Reuterweg 18, 60323 Frankfurt am Main",240
+21,60306,higematsu,Japanese Restaurant,50.115741880588054,8.675889372825623,"Meisengasse 11, 60313 Frankfurt am Main",410
+22,60306,Taunusanlage,Park,50.11379891730555,8.66984257800137,"Taunusanlage, Frankfurt am Main",257
+23,60306,Sunny Side Up,Breakfast Spot,50.115529,8.669581,"Bockenheimer Landstraße 9, 60325 Frankfurt am Main",76
+24,60306,Fitness First,Gym / Fitness Center,50.11601706964874,8.674120455980301,"Hochstr. 44, 60313 Frankfurt am Main",282
+25,60306,Ojo De Agua,Steakhouse,50.11625120890371,8.676380592631666,"Hochstr. 27 (Börsenstr.), 60313 Frankfurt am Main",444
+26,60306,Fressgass',Pedestrian Plaza,50.114343,8.67438,"Große Bockenheimerstrasse 29, 60313 Frankfurt am Main",359
+27,60306,Hilton Executive Lounge,Hotel Bar,50.11666839694424,8.677494193939854,"Hochstr. 4, 60313 Frankfurt am Main",527
+28,60306,Heidi und Paul,Sandwich Place,50.114939671445114,8.675794053010167,"Meisengasse 12, 60313 Frankfurt am Main",422
+29,60306,Hugendubel,Bookstore,50.113651,8.677205,"Steinweg 12, 60313 Frankfurt am Main",572
+30,60308,Ramen Jun,Ramen Restaurant,50.1132007576763,8.655861258444238,"Wilhelm-Hauff-Str. 10, 60325 Frankfurt am Main",245
+31,60308,Jewel of India,Indian Restaurant,50.11302484386531,8.65556451250559,"Wilhelm-Hauff-Str. 5, 60325 Frankfurt am Main",218
+32,60308,MeridianSpa,Spa,50.108506589634516,8.654195559973152,"Europa-Allee 4, 60327 Frankfurt am Main",435
+33,60308,Kaffeewerk Espressionist,Café,50.10997459706875,8.655504146543741,"Friedrich-Ebert-Anlage 35-37 (Südseite Tower 185), 60327 Frankfurt am Main",326
+34,60308,Block House Europa-Allee,Steakhouse,50.10886137123977,8.650225834066765,"Europa-Allee 12-22, 60327 Frankfurt am Main",422
+35,60308,Adina Apartment Hotel Frankfurt,Hotel,50.10925954925735,8.65514546600498,"Osloer Str. 3, 60327 Frankfurt am Main",380
+36,60308,Die Bierothek Frankfurt,Beer Store,50.1094561195868,8.652498800090816,"Europa-Allee 6, 60327 Frankfurt am Main",317
+37,60308,Cucina Mediterraneo,Italian Restaurant,50.11181911741183,8.654620908366349,"Platz der Einheit 1, 60327 Frankfurt am Main",145
+38,60308,Capri by Fraser Frankfurt,Hotel,50.108895642105345,8.648790202351199,"Europaallee 42, Frankfurt am Main",471
+39,60308,Pull&Bear,Clothing Store,50.108352412302146,8.653392499232,"Europa-Allee 6, 60327 Frankfurt am Main",442
+40,60308,Segafredo,Coffee Shop,50.11030846786721,8.651870710790087,"Europa-Allee 6, 60327 Frankfurt am Main",229
+41,60308,Starbucks,Coffee Shop,50.109337342455255,8.652228007591546,"Europa-Allee 6, 60327 Frankfurt am Main",331
+42,60308,Kleine Anna,Sandwich Place,50.108548,8.657944,"Mainzer Landstr. 111 (Ludwigstr.), 60329 Frankfurt am Main",559
+43,60308,Frankfurt Marriott Hotel,Hotel,50.1145889,8.6503145,"Hamburger Allee 2, HE, 60486 Frankfurt am Main",307
+44,60308,Premier Inn Frankfurt Messe,Hotel,50.1089718,8.6475936,"Europa-Allee 44, 60327 Frankfurt am Main",521
+45,60308,Citadines Apartment Hotel,Hotel,50.10835849872752,8.65214302203473,"Europa-Allee, Frankfurt am Main",440
+46,60308,Senckenbergs,Mediterranean Restaurant,50.117592496574034,8.649163842201233,"Gräfstr. 45, 60486 Frankfurt am Main",641
+47,60308,Motel One Frankfurt Messe,Hotel,50.10851076,8.65075536,"Europa Allee 20, 60327 Frankfurt am Main",444
+48,60308,Mangetsu,Japanese Restaurant,50.115902,8.646909,"Varrentrappstraße 57, 60486 Frankfurt am Main",577
+49,60308,Jimmy's,Piano Bar,50.11218823881263,8.655693188955048,"Friedrich-Ebert-Anlage 40, 60327 Frankfurt am Main",212
+50,60308,dm-drogerie markt,Drugstore,50.11054611206055,8.654061317443848,"Europa-Allee 6, 60327 Frankfurt am Main",217
+51,60308,Senckenberg Naturmuseum,Science Museum,50.11749734139265,8.652469914534567,"Senckenberganlage 25, 60486 Frankfurt am Main",578
+52,60308,Festhalle,Concert Hall,50.111931382010745,8.650911434141003,"Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main",135
+53,60308,Stanley Diamond,Restaurant,50.1087588020894,8.65987094123319,"Ottostr. 16-18, 60329 Frankfurt am Main",644
+54,60308,Sandwicher,Sandwich Place,50.11206984734167,8.657172488475595,"Beethovenstraße 3, Frankfurt am Main",318
+55,60308,Best Worscht in Town,Currywurst Joint,50.109341,8.652778,"Europa-Allee 6, 60327 Frankfurt am Main",329
+56,60308,Westendplatz,Plaza,50.11309310500418,8.661861419677734,"Westendstr. (Rheinstr.), Frankfurt am Main",658
+57,60308,LaLuna,Ice Cream Shop,50.109097,8.6523075,"Skyplaza, Frankfurt am Main",357
+58,60308,daVinc CUCINA E VINO,Italian Restaurant,50.10776203754079,8.65160909526651,"Kölner Str. 4, 60327 Frankfurt am Main",511
+59,60308,Backstube Liebesbrot,Bakery,50.11632743838428,8.658263256512631,"Mendelssohnstr. 60 (Kettenhofweg), 60325 Frankfurt am Main",597
+60,60311,SCHIRN Kunsthalle,Art Museum,50.110290772309455,8.68354167036771,"Römerberg 6 (Bendergasse), 60311 Frankfurt am Main",36
+61,60311,Römerberg,Plaza,50.110488574510946,8.682130927626094,"Römerberg, 60311 Frankfurt am Main",87
+62,60311,Main,River,50.108390023498124,8.682630610762983,"Mainkai, 60311 Frankfurt am Main",190
+63,60311,Hoppenworth & Ploch,Café,50.110891,8.683701,"Markt 22, Frankfurt am Main",99
+64,60311,Dom Aussichtsplattform,Scenic Lookout,50.1106086072462,8.684908101280024,"Domplatz 1, 60311 Frankfurt am Main",137
+65,60311,Bitter & Zart Chocolaterie,Chocolate Shop,50.11144403594232,8.683904390442564,"Braubachstr. 14, 60311 Frankfurt am Main",161
+66,60311,Kleinmarkthalle,Market,50.11277831905649,8.682958229144049,"Hasengasse 5-7, 60311 Frankfurt am Main",302
+67,60311,The Holy Cross Brewing Society,Café,50.110165,8.687225,"Fahrgasse 7, 60311 Frankfurt am Main",289
+68,60311,Weinterasse Rollanderhof,Wine Bar,50.11247331411008,8.682163909241812,"Hasengasse 5-7, Frankfurt am Main",277
+69,60311,Carhartt,Boutique,50.111928941072776,8.681853393139704,"Neue Kraeme 26 (Berliner Str.), 60311 Frankfurt am Main",227
+70,60311,MehlWasserSalz,Bakery,50.111928,8.685092,"Domstr. 10, 60311 Frankfurt am Main",248
+71,60311,Wackers Kaffee,Coffee Shop,50.112063652757506,8.679466862835952,"Kornmarkt 9, 60311 Frankfurt am Main",345
+72,60311,Metropol Cafe am Dom,Café,50.11008906969542,8.685618395114327,"Weckmarkt 13-15, 60311 Frankfurt am Main",174
+73,60311,Jamy's Burger,Burger Joint,50.11122568691471,8.68169876145354,"Neue Kräme 14-16, 60311 Frankfurt am Main",166
+74,60311,Café im Kunstverein,Café,50.11056062309682,8.682788054852685,"Markt 44, 60311 Frankfurt am Main",61
+75,60311,Góc Phố,Vietnamese Restaurant,50.11350906292216,8.68168610237595,"Schärfengäßchen 6 (Holzgraben), 60311 Frankfurt am Main",397
+76,60311,Sugar Mama,Café,50.1098,8.688115,"Kurt-Schumacher-Str. 2, 60311 Frankfurt am Main",354
+77,60311,Naïv,Beer Bar,50.11012554224736,8.687724657967209,"Fahrgasse 4, Frankfurt am Main",325
+78,60311,Heimat – Essen und Weine,German Restaurant,50.11112519116169,8.67828645020011,"Berliner Str. 70 (Großer Hirschgraben), 60311 Frankfurt am Main",367
+79,60311,Superkato,Sushi Restaurant,50.111664,8.679153,"Kornmarkt 5, Frankfurt am Main",337
+80,60311,Balthasar Ress Weinbar & Vinothek,Wine Bar,50.110714,8.684054,"Am Markt 13a, Frankfurt am Main",95
+81,60311,Iimori Pâtisserie,Pastry Shop,50.11125816611354,8.683090216629637,"Braubachstr. 24, 60316 Frankfurt am Main",132
+82,60311,Paulaner am Dom,German Restaurant,50.11087627254253,8.685925175827979,"Domplatz 6, 60311 Frankfurt am Main",216
+83,60311,Das Eis,Ice Cream Shop,50.112503060989184,8.684207116842279,"Hasengasse, Frankfurt am Main",280
+84,60311,moloko+,Bar,50.1100185390236,8.687768521080988,"Kurt-Schumacher-Str. 1, 60311 Frankfurt am Main",328
+85,60311,Picknickbank,Moroccan Restaurant,50.111534,8.678509,"Weißadlergasse 7, 60311 Frankfurt am Main",370
+86,60311,roseli,Café,50.111413591385805,8.678372269383546,"Weißadlergasse 9, 60311 Frankfurt am Main",373
+87,60311,FITSEVENELEVEN Zeil,Gym / Fitness Center,50.114162979496456,8.682001296163765,"Zeil 105, 60313 Frankfurt am Main",463
+88,60311,Questione Di Gusto,Italian Restaurant,50.112424113255,8.682045045863717,"Liebfrauenberg 37, Frankfurt am Main",274
+89,60311,Paulsplatz,Plaza,50.11114985732823,8.681589224547908,"Paulsplatz, Frankfurt am Main",164
+90,60312,Main Tower Aussichtsplattform,Scenic Lookout,50.1123982071476,8.672246932983398,"Neue Mainzer Str. 52-58, 60311 Frankfurt am Main",109
+91,60312,Bunca Barista & Caterer,Coffee Shop,50.111132,8.675198,"Kirchnerstr. 4, 60311 Frankfurt am Main",162
+92,60312,Main Tower,Building,50.112463908854465,8.67218450782933,"Neue Mainzer Str. 52-58, 60311 Frankfurt am Main",117
+93,60312,Elaine's Deli,Café,50.110127,8.672824,"Taunustor 2, 60311 Frankfurt am Main",159
+94,60312,MMK 2,Art Museum,50.1102067117758,8.672162154299969,"Taunustor 1, 60311 Frankfurt am Main",162
+95,60312,English Theatre Frankfurt,Theater,50.10951005649988,8.672403209363361,"Gallusanlage 7, 60311 Frankfurt am Main",231
+96,60312,Steigenberger Frankfurter Hof,Hotel,50.11036758926263,8.675757142971598,"Am Kaiserplatz (Kaiserstr.), 60311 Frankfurt am Main",235
+97,60312,Baguetterie & Cafébar Strahmann,Bistro,50.11043730238465,8.67644727230072,"Bethmannstr. 58, 60311 Frankfurt am Main",274
+98,60312,L'Art Sucré,Dessert Shop,50.11453790985073,8.674392700195312,"Große Bockenheimer Str. 25, 60313 Frankfurt am Main",346
+99,60312,Kabuki,Japanese Restaurant,50.109034837022676,8.670183015624227,"Kaiserstr. 42, 60329 Frankfurt am Main",346
+100,60312,AMP,Bar,50.1091685440766,8.672193719471117,"Gallusanlage 2, Frankfurt am Main",272
+101,60312,Heimat – Essen und Weine,German Restaurant,50.11112519116169,8.67828645020011,"Berliner Str. 70 (Großer Hirschgraben), 60311 Frankfurt am Main",378
+102,60312,Hugendubel,Bookstore,50.113651,8.677205,"Steinweg 12, 60313 Frankfurt am Main",378
+103,60312,Moriki,Japanese Restaurant,50.113862743413954,8.669529906483975,"Taunusanlage 12, 60325 Frankfurt am Main",358
+104,60312,MEYER Feinkost Frankfurt,Gourmet Shop,50.11481896138156,8.673397530039969,"Große Bockenheimer Str. 52, 60313 Frankfurt am Main",364
+105,60312,Schauspiel Frankfurt,Theater,50.10860705216087,8.674736022949219,"Neue Mainzer Str. 17 (Willy-Brandt-Platz), 60311 Frankfurt am Main",350
+106,60312,Opernplatz,Plaza,50.11539915869597,8.67177193944527,"Opernplatz, 60313 Frankfurt am Main",437
+107,60312,Alte Oper,Opera House,50.1153503683284,8.671428058396787,"Opernplatz 1, 60313 Frankfurt am Main",437
+108,60312,Sullivan,Bar,50.11110809729786,8.675829356038427,"Kaiserstr. 12, 60311 Frankfurt am Main",206
+109,60312,Wackers Kaffee,Coffee Shop,50.112063652757506,8.679466862835952,"Kornmarkt 9, 60311 Frankfurt am Main",463
+110,60312,Apple Große Bockenheimer Straße,Electronics Store,50.11473742709421,8.674963340163231,"GroßE Bockenheimer StraßE 30, 60313 Frankfurt am Main",380
+111,60312,Oper Frankfurt,Opera House,50.108393747771856,8.673663139343262,"Untermainanlage 11 (Willy-Brandt-Platz), 60311 Frankfurt am Main",354
+112,60312,Goetheplatz,Plaza,50.112583655995635,8.67676676829675,"Goetheplatz, 60313 Frankfurt am Main",290
+113,60312,roseli,Café,50.111413591385805,8.678372269383546,"Weißadlergasse 9, 60311 Frankfurt am Main",382
+114,60312,Picknickbank,Moroccan Restaurant,50.111534,8.678509,"Weißadlergasse 7, 60311 Frankfurt am Main",391
+115,60312,Goethehaus,Art Museum,50.111288275591086,8.677793846600604,"Großer Hirschgraben 23-25, 60311 Frankfurt am Main",341
+116,60312,Café Karin,Café,50.11162143147713,8.678096929289614,"Großer Hirschgraben 28, 60311 Frankfurt am Main",362
+117,60312,Lam Frères,Vietnamese Restaurant,50.10810615694838,8.670092923656206,"Weserstrasse 12, 60 329 Frankfurt am Main",437
+118,60312,Gucci,Boutique,50.11360567171312,8.675609081983566,"Goethestrasse, 5, 60313 Frankfurt am Main",293
+119,60312,Superkato,Sushi Restaurant,50.111664,8.679153,"Kornmarkt 5, Frankfurt am Main",437
+120,60313,Góc Phố,Vietnamese Restaurant,50.11350906292216,8.68168610237595,"Schärfengäßchen 6 (Holzgraben), 60311 Frankfurt am Main",9
+121,60313,Kleinmarkthalle,Market,50.11277831905649,8.682958229144049,"Hasengasse 5-7, 60311 Frankfurt am Main",115
+122,60313,Weinterasse Rollanderhof,Wine Bar,50.11247331411008,8.682163909241812,"Hasengasse 5-7, Frankfurt am Main",117
+123,60313,FITSEVENELEVEN Zeil,Gym / Fitness Center,50.114162979496456,8.682001296163765,"Zeil 105, 60313 Frankfurt am Main",73
+124,60313,Wackers Kaffee,Coffee Shop,50.112063652757506,8.679466862835952,"Kornmarkt 9, 60311 Frankfurt am Main",232
+125,60313,Jumeirah Frankfurt,Hotel,50.11499899974531,8.680512321152491,"Thurn-und-Taxis-Platz 2, 60313 Frankfurt am Main",190
+126,60313,Carhartt,Boutique,50.111928941072776,8.681853393139704,"Neue Kraeme 26 (Berliner Str.), 60311 Frankfurt am Main",175
+127,60313,LEGO Store,Toy / Game Store,50.114707976323906,8.681620527520643,"Zeil 106, 60313 Frankfurt am Main",134
+128,60313,Big Chefs,American Restaurant,50.114941,8.681064,Deutschland,168
+129,60313,Hoppenworth & Ploch,Café,50.110891,8.683701,"Markt 22, Frankfurt am Main",321
+130,60313,Bitter & Zart Chocolaterie,Chocolate Shop,50.11144403594232,8.683904390442564,"Braubachstr. 14, 60311 Frankfurt am Main",273
+131,60313,Römerberg,Plaza,50.110488574510946,8.682130927626094,"Römerberg, 60311 Frankfurt am Main",336
+132,60313,Superkato,Sushi Restaurant,50.111664,8.679153,"Kornmarkt 5, Frankfurt am Main",279
+133,60313,Sky Lounge | Galeria Kaufhof,Restaurant,50.11428173943262,8.679814424749862,"Zeil 116, 60313 Frankfurt am Main",166
+134,60313,Brunnen auf der Zeil,Fountain,50.11463094070604,8.683361010661045,"Zeil, Frankfurt am Main",166
+135,60313,Hugendubel,Bookstore,50.113651,8.677205,"Steinweg 12, 60313 Frankfurt am Main",329
+136,60313,MehlWasserSalz,Bakery,50.111928,8.685092,"Domstr. 10, 60311 Frankfurt am Main",292
+137,60313,Das Eis,Ice Cream Shop,50.112503060989184,8.684207116842279,"Hasengasse, Frankfurt am Main",204
+138,60313,SCHIRN Kunsthalle,Art Museum,50.110290772309455,8.68354167036771,"Römerberg 6 (Bendergasse), 60311 Frankfurt am Main",378
+139,60313,Erzeugermarkt Konstablerwache,Farmers Market,50.114516186984,8.68711555553734,"Konstablerwache (Zeil), 60313 Frankfurt am Main",394
+140,60313,Heimat – Essen und Weine,German Restaurant,50.11112519116169,8.67828645020011,"Berliner Str. 70 (Großer Hirschgraben), 60311 Frankfurt am Main",365
+141,60313,Schillermarkt,Market,50.11503868873964,8.678485185408618,"Schillerstr. (Börsenplatz), 60313 Frankfurt am Main",292
+142,60313,AROYDEE Thai Küche,Thai Restaurant,50.116420093695126,8.680244683871457,"Stiftstr. 34, 60313 Frankfurt am Main",342
+143,60313,Jamy's Burger,Burger Joint,50.11122568691471,8.68169876145354,"Neue Kräme 14-16, 60311 Frankfurt am Main",254
+144,60313,Picknickbank,Moroccan Restaurant,50.111534,8.678509,"Weißadlergasse 7, 60311 Frankfurt am Main",322
+145,60313,Zeil,Pedestrian Plaza,50.11463422862378,8.684048652648926,"Zeil 1-116, 60313 Frankfurt am Main",202
+146,60313,Peek & Cloppenburg,Clothing Store,50.11419391265096,8.684896230697632,"Zeil 71-75, 60313 Frankfurt am Main",232
+147,60313,roseli,Café,50.111413591385805,8.678372269383546,"Weißadlergasse 9, 60311 Frankfurt am Main",338
+148,60313,Questione Di Gusto,Italian Restaurant,50.112424113255,8.682045045863717,"Liebfrauenberg 37, Frankfurt am Main",121
+149,60313,Dom Aussichtsplattform,Scenic Lookout,50.1106086072462,8.684908101280024,"Domplatz 1, 60311 Frankfurt am Main",391
+150,60314,Kontrast,Furniture / Home Store,50.11741422278307,8.726985483666459,"Hanauer Landstr. 297, 60314 Frankfurt am Main",469
+151,60314,Best Worscht in Town,Currywurst Joint,50.1164848646309,8.726976573015039,"Hanauer Landstr. 220, 60314 Frankfurt am Main",463
+152,60314,Me.Ta. (Italienischer Großhandel),Supermarket,50.115662875156076,8.726199887294415,"Hanauer Landstraße 208-216, 60314 Frankfurt am Main",530
+153,60314,Blaues Wasser,Cocktail Bar,50.11142056750985,8.732412655470833,"Franziusstraße 35, 60314 Frankfurt am Main",590
+154,60314,Hafen 2,Event Space,50.1122769836983,8.740644861822688,"Nordring 129 (Goethering), 63067 Offenbach am Main",709
+155,60314,Robert-Johnson,Nightclub,50.11170940092906,8.738996527975493,"Nordring 131, 63067 Offenbach am Main",680
+156,60314,Pizza Hut,Pizza Place,50.119017,8.733922,"Hanauer Landstr. 292, 60314 Frankfurt am Main",261
+157,60314,Uniongelände,Plaza,50.11536252625526,8.723714983396702,"Hanauer Landstr. 184, 60314 Frankfurt am Main",711
+158,60314,Das Leben ist schön,Italian Restaurant,50.11537402504722,8.723665630088108,"Hanauer Landstr. 198, 60314 Frankfurt am Main",714
+159,60314,CrossFit Circus Maximus,Gym,50.109610908593304,8.74093072097816,"Goethering 52, 63067 Offenbach a.M.",950
+160,60314,Honda Deutschland,Motorcycle Shop,50.1167697134687,8.728182748874852,Frankfurt am Main,377
+161,60314,Schwedlersee,Gastropub,50.11233972518476,8.721712231636047,"Schwedlerweg, Frankfurt am Main",968
+162,60314,METRO Cash & Carry,Big Box Store,50.12260271589449,8.730248622231006,"Am Riederbruch 10, 60386 Frankfurt am Main",697
+163,60314,New Century Hotel,Hotel,50.108340026832124,8.73129872386131,63067 Offenbach am Main,941
+164,60314,Ostpark,Park,50.1204680330118,8.721814155578613,"Ostparkstr. (Ratsweg), 60386 Frankfurt am Main",932
+165,60314,Dicke Butz,American Restaurant,50.11445512615513,8.723627870231962,"Hanauer Landstr. 192 (Uniongelände), 60314 Frankfurt am Main",744
+166,60314,Kentucky Fried Chicken,Fried Chicken Joint,50.11908439340322,8.733796794388207,"Hanauer Landstraße 292, 60314 Frankfurt am Main",268
+167,60314,Mr. Thai,Thai Restaurant,50.121686414497105,8.740442405586093,"Daimlerstr. 27, 60314 Frankfurt am Main",747
+168,60314,iKoi,Sushi Restaurant,50.116923847993235,8.726159757703828,60314 Frankfurt am Main,522
+169,60314,Delta Hotels by Marriott Frankfurt Offenbach,Hotel,50.108077235775795,8.731309344142725,"Kaiserleistrasse 45, 63067 Offenbach am Main",970
+170,60314,Lidl,Supermarket,50.11531459858541,8.721834796295184,"Hanauer Landstraße 219, 60314 Frankfurt-Ostend",844
+171,60314,AS Frankfurt-Ost (14),Intersection,50.11865967105386,8.731305624150991,"A 661 (B 8, B 40), 60314 Frankfurt am Main",268
+172,60314,Bar Alimentari (Uschi),Café,50.11462070089677,8.72288689678573,"Hanauer Landstr. 186, 60314 Frankfurt am Main",789
+173,60314,H Riederhöfe,Tram Station,50.117275285441,8.728614442642018,"Hanauer Landstr. (An den Riederhöfen), Frankfurt am Main",352
+174,60314,ALDI SÜD,Supermarket,50.1164106,8.7244298,"Hanauer Landstraße 285, 60314 Frankfurt am Main",645
+175,60314,Schwab's Baby-Center,Kids Store,50.120502091141375,8.733871391493098,Frankfurt am Main,425
+176,60314,MTW,Nightclub,50.11158014236738,8.739064961631666,"Nordring, Offenbach am Main",694
+177,60314,Interxion,IT Services,50.11999664753033,8.737085759317942,"Hanauer Landstr. 298, 60314 Frankfurt am Main",450
+178,60314,McTrek,Sporting Goods Shop,50.11583256284821,8.726753620011143,"Hanauer Landstraße, 60313 Frankfurt am Main",488
+179,60314,Ostparkarena,Soccer Field,50.121764,8.727005,Frankfurt am Main,729
+180,60316,Café Faleyda,Café,50.120503739652115,8.695804689857995,"Merianstr. 4, 60316 Frankfurt am Main",75
+181,60316,Café Kante,Café,50.12021191668958,8.696861401802307,"Kantstr. 13, 60316 Frankfurt am Main",127
+182,60316,Best Worscht in Town,Currywurst Joint,50.12135037683177,8.697869123580963,"Berger Str. 80, 60316 Frankfurt am Main",141
+183,60316,Ginkgo,Restaurant,50.12198806992871,8.699230240877776,"Berger Str. 81, 60316 Frankfurt am Main",254
+184,60316,El Pacifico Cantina Mexicana,Mexican Restaurant,50.11969338471655,8.698189863935346,"Sandweg 79 (Kantstr.), 60316 Frankfurt am Main",231
+185,60316,shisan,Japanese Restaurant,50.12225312721325,8.696765654528232,"Bornheimer Landstr. 21, 60316 Frankfurt am Main",134
+186,60316,Bäckerei Kronberger,Bakery,50.12236499351605,8.692182498252972,"Vogelsbergstr. 19, 60316 Frankfurt am Main",296
+187,60316,Merianplatz,Plaza,50.120390794044695,8.695868676761219,"Merianplatz (Berger Str.), Frankfurt am Main",87
+188,60316,TRARES Restaurant & Bar,Modern European Restaurant,50.12111004085111,8.69589505325092,"Luisenstraße 7, 60316 Frankfurt am Main",7
+189,60316,Forno d' Oro II,Italian Restaurant,50.1221344,8.6961649,"Luisenstr. 23 (Bornheimer Landstr.), 60316 Frankfurt am Main",108
+190,60316,Mousonturm,Performing Arts Venue,50.11925730187881,8.698865175247192,"Waldschmidtstr. 4, 60316 Frankfurt am Main",300
+191,60316,Das Nord²,Bar,50.12004567694415,8.698873500481893,"Sandweg 64, 60316 Frankfurt am Main",246
+192,60316,Ciro il Lattaio,Italian Restaurant,50.12235448698481,8.699951096733319,"Berger Str. 89, 60316 Frankfurt am Main",317
+193,60316,Luisenplatz,Plaza,50.122297125006014,8.69667721428879,"Luisenstr. (Bornheimer Landstr.), 60316 Frankfurt am Main",136
+194,60316,Mint.,Café,50.1200167334852,8.69503554414848,"Berger Str. 36, Frankfurt am Main",143
+195,60316,Heroes Premium Burgers,Burger Joint,50.12359316199978,8.699743634971707,"Leibnizstr. 13 (Heidestr.), 60316 Frankfurt am Main",384
+196,60316,Garten des himmlischen Friedens,Garden,50.11873791635435,8.690882921218872,"Berger Str., 60311 Frankfurt am Main",449
+197,60316,Mosebach,German Restaurant,50.11792739791386,8.696436964813325,"Sandweg 29, 60316 Frankfurt am Main",363
+198,60316,Rösterei Hoppenworth & Ploch,Coffee Shop,50.12478809430432,8.691801273894814,"Friedberger Landstr. 86, 60316 Frankfurt am Main",497
+199,60316,Kleines Café Schneider,Café,50.12235443310444,8.699027277297548,"Heideplatz 1, 60316 Frankfurt am Main",258
+200,60316,Bethmannpark,Park,50.119216026414094,8.691086769104004,"Friedberger Landstr. (Mauerweg), Frankfurt am Main",407
+201,60316,Kaiser Biobäckerei,Bakery,50.1213485868715,8.69789067825492,Frankfurt am Main,143
+202,60316,Phoenix Tea,Tea Room,50.12428487453663,8.691865577100696,"Friedberger Landstr. 82, 60316 Frankfurt am Main",450
+203,60316,Chi Chi Thai,Thai Restaurant,50.11901537599924,8.692776923478275,"Berger Str. 10, Frankfurt am Main",328
+204,60316,Fonda De Santiago,Mexican Restaurant,50.12533,8.697207,"Martin-Luther-Straße 17, 60316 Frankfurt am Main",471
+205,60316,Antony's,Cocktail Bar,50.119122627949025,8.6930834031639,Frankfurt am Main,304
+206,60316,Villa Orange,Hotel,50.12081680112566,8.689476867277165,"Hebelstr . 1, 60318 Frankfurt am Main",460
+207,60316,Friedberger Anlage,Park,50.117104050975904,8.691805601119995,"Friedberger Landstr. (Seilerstr.), Frankfurt am Main",539
+208,60316,Caffè Leidenschaft,Café,50.121871342147,8.698800802230835,"Berger Str. 79 (Bornheimer Landstr.), 60316 Frankfurt am Main",220
+209,60316,Bangkok - Thai Restaurant,Thai Restaurant,50.11717296796037,8.696086739956536,"Sandweg 17, 60316 Frankfurt am Main",445
+210,60318,Fein,Café,50.11883673766143,8.685419583634939,"Petersstr. 4-6, 60313 Frankfurt am Main",317
+211,60318,FITSEVENELEVEN 7.11 Frankfurt-Nordend,Gym / Fitness Center,50.122387,8.68885,"Eiserne Hand 12, 60318 Frankfurt am Main",183
+212,60318,kaffeemacherei,Café,50.124087724711174,8.68637412131785,"Eckenheimer Landstr. 70, 60318 Frankfurt am Main",278
+213,60318,Villa Orange,Hotel,50.12081680112566,8.689476867277165,"Hebelstr . 1, 60318 Frankfurt am Main",222
+214,60318,Eis Christina,Ice Cream Shop,50.12453311793065,8.68646084958882,"Eckenheimer Landstr. 78, 60318 Frankfurt am Main",327
+215,60318,Weinstube,Wine Bar,50.12489003131346,8.686302128109809,"Eckenheimer Landstrasse, 60318 Frankfurt am Main",368
+216,60318,Bizzi Ice Organic Gelato Nordend,Ice Cream Shop,50.12316376177321,8.687892745302383,"Koselstr.42 (Weberstr.), 60318 Frankfurt am Main",198
+217,60318,Aroma,Falafel Restaurant,50.12388870972498,8.681422990707558,"Oeder Weg 80a, 60318 Frankfurt am Main",449
+218,60318,Cafuchico,Café,50.1244615874651,8.686301011182865,"Eckenheimer Landstraße 61 (Stahlburgstraße), 60318 Frankfurt am Main",320
+219,60318,Super Bros,Italian Restaurant,50.1216813188922,8.68044548768717,"Oeder Weg 55-57, 60318 Frankfurt am Main",439
+220,60318,Pizzeria il Cavallino,Pizza Place,50.12327894249196,8.686161906311431,"Koselstr. 46 (Weberstr.), Frankfurt am Main",190
+221,60318,Mal Seh'n,Indie Movie Theater,50.12402393055985,8.685773774608919,"Adlerflychtstr. 6, 60318 Frankfurt am Main",277
+222,60318,Garten des himmlischen Friedens,Garden,50.11873791635435,8.690882921218872,"Berger Str., 60311 Frankfurt am Main",440
+223,60318,Bäckerei Kronberger,Bakery,50.12236499351605,8.692182498252972,"Vogelsbergstr. 19, 60316 Frankfurt am Main",407
+224,60318,V'uisine,Vietnamese Restaurant,50.12436142669831,8.68656724691391,"Wielandstraße 61, 60381 Frankfurt am Main",308
+225,60318,Switchboard,Gay Bar,50.118147454827096,8.685797766813252,"Alte Gasse 36, 60313 Frankfurt am Main",387
+226,60318,Terranova,Italian Restaurant,50.12478617266359,8.686022758483887,"Eckenheimer Landstr. 67, 60318 Frankfurt am Main",358
+227,60318,Rösterei Hoppenworth & Ploch,Coffee Shop,50.12478809430432,8.691801273894814,"Friedberger Landstr. 86, 60316 Frankfurt am Main",514
+228,60318,Bethmannpark,Park,50.119216026414094,8.691086769104004,"Friedberger Landstr. (Mauerweg), Frankfurt am Main",415
+229,60318,Zeit für Brot,Bakery,50.11933828137189,8.67969818339249,"Oeder Weg 15, 60318 Frankfurt am Main",552
+230,60318,BrauStil,Brewery,50.121863348819765,8.680460892090322,"Oeder Weg 57, 60318 Frankfurt am Main",438
+231,60318,Phoenix Tea,Tea Room,50.12428487453663,8.691865577100696,"Friedberger Landstr. 82, 60316 Frankfurt am Main",481
+232,60318,Logenhaus Frankfurt,Lounge,50.12132531585935,8.67888827658463,"Finkenhofstr. 17, 60322 Frankfurt am Main",550
+233,60318,Savanna Restaurant,African Restaurant,50.11801224315616,8.685913801013657,"Alte Gasse 69, Frankfurt am Main",401
+234,60318,Im Glück,Café,50.12667942765989,8.687825202941895,"Gluckstrasse 17 (Glauburgstrasse), 60318 Frankfurt am Main",573
+235,60318,Bohnerie café // röstsalon,Café,50.11965,8.678218,"Eschersheimer Landstraße 14 (Querstraße), 60322 Frankfurt am Main",635
+236,60318,Oeder Weg,Road,50.12224762482881,8.68034634886219,"Oeder Weg, 60318 Frankfurt am Main",452
+237,60318,Milch & Zucker,Café,50.126717670278445,8.685424088907894,"Eckenheimer Landstr. 107 (Glauburgstr.), 60318 Frankfurt am Main",577
+238,60318,Café Glauburg,Café,50.1269715884862,8.688226977874237,"Glauburgstr. 28, 60318 Frankfurt am Main",610
+239,60318,Gokio Bros.,Korean Restaurant,50.11961,8.679887,"Oeder Weg 26, Frankfurt am Main",527
+240,60320,Sendesaal | Hessischer Rundfunk,Concert Hall,50.13599806262035,8.676080895967615,"Betramstr. 8, 60320 Frankfurt am Main",407
+241,60320,Eat'n'Art,Mediterranean Restaurant,50.13890601436834,8.671511351641875,"Marbachweg 357, 60320 Frankfurt am Main",481
+242,60320,Kuli Alma-Mediterranean Kitchen,Vegetarian / Vegan Restaurant,50.140043,8.68309,"Zum-Jungen-Straße 10, 60320 Frankfurt am Main",355
+243,60320,REWE,Supermarket,50.13376,8.67108,"Eschersheimer Landstr. 221, 60320 Frankfurt am Main",807
+244,60320,dm-drogerie markt,Drugstore,50.133844193203856,8.672366473851184,"Eschersheimer Landstr. 178-182 (Polizeimeister-Kaspar-Str.), 60320 Frankfurt am Main",745
+245,60320,Fitness First Platinum Swim Club,Gym / Fitness Center,50.14693531319082,8.680965822090133,"Karl-von-Drais-Straße 5a, 60435 Frankfurt am Main",862
+246,60320,Dornbusch Kebap Haus,Doner Restaurant,50.136956819157156,8.671282490424893,"Eschersheimer Landstr. 226, Frankfurt am Main",564
+247,60320,Artotheke,Café,50.131389,8.684387,"Nibelungenallee 59, Frankfurt am Main",993
+248,60320,Sinaipark,Park,50.140822455477185,8.68186069504293,Frankfurt am Main,304
+249,60320,Rossmann,Drugstore,50.137202156864184,8.671034489491747,"Eschersheimer Landstr. 230, 60320 Frankfurt am Main",567
+250,60320,Starbucks,Coffee Shop,50.133596247924174,8.67153869481844,"Eschersheimer Landstraße 223, 60320 Frankfurt am Main",802
+251,60320,REWE,Supermarket,50.14832098959993,8.6786799069788,"Karl-Von-Drais-Straße 13 (Kirschwaldstr), 60435 Frankfurt am Main",994
+252,60320,Rossmann,Drugstore,50.14638311328122,8.68236097792789,"Eckenheimer Landstr. 425, 60435 Frankfurt am Main",832
+253,60320,"Pizza Hut Frankfurt, Dornbusch",Pizza Place,50.137314,8.66716,"Am Dornbusch 31 (Hansaallee), 60320 Frankfurt am Main",822
+254,60320,Pizza Hut,Pizza Place,50.137508392333984,8.667242050170898,Frankfurt am Main,810
+255,60320,Libertos Pizzeria Dick & Doof,Pizza Place,50.14045344956594,8.67659983012498,"Marbachweg 302, 60320 Frankfurt am Main",165
+256,60320,Bertramswiese,Soccer Field,50.14080812976461,8.68186654514176,"Bertramswiese, 60320 Frankfurt am Main",304
+257,60320,McDonald's,Fast Food Restaurant,50.13223959591921,8.683470911803903,"Eckenheimer Landstr. 181, 60320 Frankfurt am Main",880
+258,60320,Wiener Feinbäckerei Heberer,Bakery,50.14167213930329,8.68190105317775,Dornbusch,365
+259,60320,Eberhard-Beckmann-Anlage,Park,50.1362012140268,8.67259244481967,Frankfurt am Main,535
+260,60320,SC Frankfurt 1880,Hockey Field,50.13461740650466,8.680178647719783,Frankfurt am Main,549
+261,60320,Cimino da Paolo,Italian Restaurant,50.138904856015095,8.670502881346076,"Eschersheimer Landstr. 244, 60320 Frankfurt am Main",553
+262,60320,Hinnerbäcker,Bakery,50.13968,8.670351,Frankfurt am Main,562
+263,60320,U Dornbusch,Metro Station,50.13719834605685,8.670979536176482,"Eschersheimer Landstr., 60320 Frankfurt am Main",571
+264,60320,Pizzeria Bistro Cosi Cosi,Pizza Place,50.136693311284326,8.671399131886224,"Eschersheimer Landstr 224, Frankfurt am Main",571
+265,60320,JK Entertainment,Hobby Shop,50.13698530174841,8.671030974504635,"Eschersheimer Landstr. 267, 60320 Frankfurt am Maun",578
+266,60320,Welcome Asia Bistro,Asian Restaurant,50.139106297542455,8.669983590745709,"Eschersheimer Landstraße 285, Frankfurt am Main",588
+267,60320,Mr. Thai Express,Asian Restaurant,50.131732914477794,8.684438711326386,"Eckenheimer Landstr. 188, 60320 Frankfurt am Main",961
+268,60320,Turnfreunde Jahnvolk,Greek Restaurant,50.14587028035753,8.676551137581518,"Kirschwaldstraße 40, 60435 Frankfurt am Main",730
+269,60320,U Fritz-Tarnow-Straße,Metro Station,50.142866395202134,8.66869905250945,"Eschersheimer Landstr. 349–361 (Fritz-Reuter-Str., Fritz-Tarnow-Str.), 60320 Frankfurt am Main",781
+270,60322,Omonia,Greek Restaurant,50.127359,8.685447,"Eckenheimer Landstr. 126 (Schwarzburgstr.), 60318 Frankfurt am Main",250
+271,60322,Aroma,Falafel Restaurant,50.12388870972498,8.681422990707558,"Oeder Weg 80a, 60318 Frankfurt am Main",367
+272,60322,Milch & Zucker,Café,50.126717670278445,8.685424088907894,"Eckenheimer Landstr. 107 (Glauburgstr.), 60318 Frankfurt am Main",253
+273,60322,Holzhausenpark,Park,50.12637197676476,8.677053325862333,"Holzhausenstr. (Hammanstr.), 60322 Frankfurt am Main",360
+274,60322,Alma,Portuguese Restaurant,50.12739475247009,8.684563636779785,"Schwarzburgstrasse 78, 60318 Frankfurt am Main",188
+275,60322,Weinstube,Wine Bar,50.12489003131346,8.686302128109809,"Eckenheimer Landstrasse, 60318 Frankfurt am Main",401
+276,60322,Eis Christina,Ice Cream Shop,50.12453311793065,8.68646084958882,"Eckenheimer Landstr. 78, 60318 Frankfurt am Main",435
+277,60322,PAPANOVA PIzza & Pasta,Italian Restaurant,50.1275266581552,8.68521938450492,"Eckenheimer Landstraße 130, 60322 Frankfurt am Main",237
+278,60322,Im Glück,Café,50.12667942765989,8.687825202941895,"Gluckstrasse 17 (Glauburgstrasse), 60318 Frankfurt am Main",423
+279,60322,kaffeemacherei,Café,50.124087724711174,8.68637412131785,"Eckenheimer Landstr. 70, 60318 Frankfurt am Main",466
+280,60322,Café Glauburg,Café,50.1269715884862,8.688226977874237,"Glauburgstr. 28, 60318 Frankfurt am Main",448
+281,60322,Reformhaus Achim Andersch,Health Food Store,50.12633263207361,8.684291060775518,"Glauburgstr. 77, 60318 Frankfurt am Main",191
+282,60322,Terranova,Italian Restaurant,50.12478617266359,8.686022758483887,"Eckenheimer Landstr. 67, 60318 Frankfurt am Main",393
+283,60322,Café Größenwahn,Café,50.12867783913498,8.688824771919913,"Lenaustr. 97, 60318 Frankfurt am Main",518
+284,60322,Cafuchico,Café,50.1244615874651,8.686301011182865,"Eckenheimer Landstraße 61 (Stahlburgstraße), 60318 Frankfurt am Main",433
+285,60322,Basic,Health Food Store,50.1281024101305,8.684599699108828,"Eckenheimer Landstr. 127, 60318 Frankfurt am Main",216
+286,60322,V'uisine,Vietnamese Restaurant,50.12436142669831,8.68656724691391,"Wielandstraße 61, 60381 Frankfurt am Main",454
+287,60322,Zur Stalburg,Beer Garden,50.126487445133826,8.683642598712089,"Glauburgstr. 80, 60318 Frankfurt am Main",142
+288,60322,Mal Seh'n,Indie Movie Theater,50.12402393055985,8.685773774608919,"Adlerflychtstr. 6, 60318 Frankfurt am Main",444
+289,60322,Super Bros,Italian Restaurant,50.1216813188922,8.68044548768717,"Oeder Weg 55-57, 60318 Frankfurt am Main",620
+290,60322,Pizzeria Olbia,Pizza Place,50.12727274180189,8.690693759796357,"Glauburgstr. 14 (Spohrstr.), 60318 Frankfurt am Main",624
+291,60322,Demera,Ethiopian Restaurant,50.12673325016081,8.674298198807053,Frankfurt am Main,547
+292,60322,BrauStil,Brewery,50.121863348819765,8.680460892090322,"Oeder Weg 57, 60318 Frankfurt am Main",600
+293,60322,Logenhaus Frankfurt,Lounge,50.12132531585935,8.67888827658463,"Finkenhofstr. 17, 60322 Frankfurt am Main",686
+294,60322,Rösterei Hoppenworth & Ploch,Coffee Shop,50.12478809430432,8.691801273894814,"Friedberger Landstr. 86, 60316 Frankfurt am Main",751
+295,60322,Oeder Weg,Road,50.12224762482881,8.68034634886219,"Oeder Weg, 60318 Frankfurt am Main",559
+296,60322,Pizzeria il Cavallino,Pizza Place,50.12327894249196,8.686161906311431,"Koselstr. 46 (Weberstr.), Frankfurt am Main",527
+297,60322,Bizzi Ice Organic Gelato Nordend,Ice Cream Shop,50.12316376177321,8.687892745302383,"Koselstr.42 (Weberstr.), 60318 Frankfurt am Main",615
+298,60322,Alnatura,Organic Grocery,50.12238584168294,8.67579354618114,"Eschersheimer Landstr. 60/62, 60322 Frankfurt am Main",690
+299,60322,FITSEVENELEVEN 7.11 Frankfurt-Nordend,Gym / Fitness Center,50.122387,8.68885,"Eiserne Hand 12, 60318 Frankfurt am Main",725
+300,60323,Ristorante Isoletta,Italian Restaurant,50.121993630864495,8.662127161073613,"Feldbergstraße 31, 60323 Frankfurt am Main",225
+301,60323,Grüneburgpark,Park,50.12751167954746,8.661582469940186,"August-Siebert-Str., 60323 Frankfurt am Main",417
+302,60323,La Boveda,Spanish Restaurant,50.12268779322748,8.664401912816784,"Feldbergstr 10, Frankfurt am Main",291
+303,60323,Palmenhaus,Botanical Garden,50.121913,8.65665,Siesmayerstr.,357
+304,60323,Botanischer Garten,Botanical Garden,50.12647870939097,8.657700152263338,"Siesmayerstraße 72, 60323 Frankfurt am Main",366
+305,60323,Surf&Turf,American Restaurant,50.12325109005784,8.664897490477747,"Liebigstr. (Grüneburgweg), 60487 Frankfurt am Main",305
+306,60323,Westbar,Bar,50.121977004689874,8.66133209397642,"Myliusstr. 48 (Feldbergstr.), 60323 Frankfurt am Main",208
+307,60323,Lafleur,French Restaurant,50.121444850584716,8.655831813812254,"Palmengartenstr. 11 (Bockenheimer Landstraße), 60325 Frankfurt am Main",435
+308,60323,Tropicarium,Botanical Garden,50.123976228717716,8.65724802017212,"Siesmayerstr., Frankfurt am Main",247
+309,60323,Ristorante da Luca,Italian Restaurant,50.12190363116015,8.660990810508416,"Myliusstr. 49 (Feldbergstraße), 60323 Frankfurt am Main",212
+310,60323,Cinelli‘s,Coffee Shop,50.123486,8.664937,"Fürstenbergstraße (Grüneburgweg), Frankfurt am Main",304
+311,60323,The Black Bulls,Steakhouse,50.11927496863152,8.659621553115848,"Bockenheimer Landstr. 92, 60325 Frankfurt am Main",510
+312,60323,Vini da Sabatini,Italian Restaurant,50.122441096383454,8.667215401082732,"Grüneburgweg 81, 60323 Frankfurt am Main",488
+313,60323,Westlage,Wine Bar,50.12253,8.66742,"Grüneburgweg 92, 60323 Frankfurt am Main",499
+314,60323,Koreanischer Garten,Garden,50.1269658079642,8.663922994863968,"August-Siebert-Str., Frankfurt am Main",420
+315,60323,Matildas Kitchen,Bistro,50.12218841766716,8.668006671616109,"Unterlindau 64, 60323 Frankfurt am Main",551
+316,60323,Hoppenworth & Ploch,Coffee Shop,50.1292531905969,8.666159972194967,"Siolistr. 7, 60323 Frankfurt am Main",720
+317,60323,Les Deux Messieurs,Bakery,50.118596890173016,8.661947250366211,"Bockenheimer Landstr. 66 (Myliusstr.), 60323 Frankfurt am Main",586
+318,60323,Allgaiers,German Restaurant,50.12253,8.664741,"Liebigstraße 47 (Feldbergstr.), 60323 Frankfurt am Main",321
+319,60323,Villa Merton,Restaurant,50.12717305513713,8.653533346080586,"AM LEONHARDSBRUNN 12, 60487 Frankfurt am Main",634
+320,60323,l'unico,Italian Restaurant,50.11815917344725,8.659280367932714,"Mendelssohnstr. 81-83, 60325 Frankfurt am Main",636
+321,60323,Brühmarkt,Café,50.12019045879249,8.64962322088915,"Leipziger Str. 1, 60487 Frankfurt am Main",887
+322,60323,Onkel Emmo,Italian Restaurant,50.121173,8.666938,"Altkönigstraße, Frankfurt am Main",532
+323,60323,Best Worscht in Town,Currywurst Joint,50.121319562066326,8.671426703338108,"Grüneburgweg 37, 60322 Frankfurt am Main",813
+324,60323,Prime Time Fitness,Gym,50.11758917309609,8.666661571867992,"Bockenheimer Landstraße 24 (Liebigstrasse), 60323 Frankfurt am Main",812
+325,60323,VaiVai,Lounge,50.121154997195056,8.67203791028229,"Grüneburgweg 16 (Leerbachstr.), 60322 Frankfurt am Main",860
+326,60323,Wacker's Kaffee,Café,50.120926,8.672167,"Grüneburgweg (Leerbachstr.), 60318 Frankfurt am Main",878
+327,60323,Weinsinn Restaurant,Gastropub,50.124379140383596,8.671704621470951,"Fürstenbergerstraße 179 (Leerbachstraße), 60322 Frankfurt am Main",787
+328,60323,Oceans Restaurant Bar & Lounge,Seafood Restaurant,50.11938034151794,8.658633980212572,"Bockenheimer Landstr. 87, 60325 Frankfurt am Main",514
+329,60323,Eppstein Eck,German Restaurant,50.1205913926935,8.66758945215002,"Eppsteiner Str. 26, 60323 Frankfurt am Main",607
+330,60325,Backstube Liebesbrot,Bakery,50.11632743838428,8.658263256512631,"Mendelssohnstr. 60 (Kettenhofweg), 60325 Frankfurt am Main",89
+331,60325,l'unico,Italian Restaurant,50.11815917344725,8.659280367932714,"Mendelssohnstr. 81-83, 60325 Frankfurt am Main",165
+332,60325,Ramen Jun,Ramen Restaurant,50.1132007576763,8.655861258444238,"Wilhelm-Hauff-Str. 10, 60325 Frankfurt am Main",449
+333,60325,Senckenberg Naturmuseum,Science Museum,50.11749734139265,8.652469914534567,"Senckenberganlage 25, 60486 Frankfurt am Main",379
+334,60325,M-Steakhouse,Steakhouse,50.11478186640996,8.662610545276616,"Feuerbachstr. 11a, 60325 Frankfurt am Main",430
+335,60325,Das Nudel Ding,Chinese Restaurant,50.11579731773912,8.66336199036083,"Kettenhofweg 64, 60325 Frankfurt am Main",425
+336,60325,Les Deux Messieurs,Bakery,50.118596890173016,8.661947250366211,"Bockenheimer Landstr. 66 (Myliusstr.), 60323 Frankfurt am Main",346
+337,60325,Westendplatz,Plaza,50.11309310500418,8.661861419677734,"Westendstr. (Rheinstr.), Frankfurt am Main",530
+338,60325,Lafleur,French Restaurant,50.121444850584716,8.655831813812254,"Palmengartenstr. 11 (Bockenheimer Landstraße), 60325 Frankfurt am Main",507
+339,60325,Palmenhaus,Botanical Garden,50.121913,8.65665,Siesmayerstr.,546
+340,60325,Senckenbergs,Mediterranean Restaurant,50.117592496574034,8.649163842201233,"Gräfstr. 45, 60486 Frankfurt am Main",614
+341,60325,Takumi,Ramen Restaurant,50.114437,8.657419,"Mendelssohnstraße 44, 60325 Frankfurt am Main",292
+342,60325,Jewel of India,Indian Restaurant,50.11302484386531,8.65556451250559,"Wilhelm-Hauff-Str. 5, 60325 Frankfurt am Main",474
+343,60325,Ristorante Isoletta,Italian Restaurant,50.121993630864495,8.662127161073613,"Feldbergstraße 31, 60323 Frankfurt am Main",632
+344,60325,Brühmarkt,Café,50.12019045879249,8.64962322088915,"Leipziger Str. 1, 60487 Frankfurt am Main",676
+345,60325,Prime Time Fitness,Gym,50.11758917309609,8.666661571867992,"Bockenheimer Landstraße 24 (Liebigstrasse), 60323 Frankfurt am Main",639
+346,60325,Soulmate Coffee & Bar,Café,50.119019,8.650181,"Gräfstraße 74-76, 60486 Frankfurt am Main",582
+347,60325,Westbar,Bar,50.121977004689874,8.66133209397642,"Myliusstr. 48 (Feldbergstr.), 60323 Frankfurt am Main",605
+348,60325,Block House,Steakhouse,50.11821589302296,8.663224330467315,"Wiesenau 1, 60323 Frankfurt am Main",412
+349,60325,Mangetsu,Japanese Restaurant,50.115902,8.646909,"Varrentrappstraße 57, 60486 Frankfurt am Main",783
+350,60325,Mon Amie Maxi,French Restaurant,50.11650277308419,8.667199372838764,60325 Frankfurt am Main,678
+351,60325,Kaffeewerk Espressionist,Café,50.10997459706875,8.655504146543741,"Friedrich-Ebert-Anlage 35-37 (Südseite Tower 185), 60327 Frankfurt am Main",804
+352,60325,da Cimino,Pizza Place,50.119496052268346,8.645681618479712,"Adalbertstr. 29, 60486 Frankfurt am Main",902
+353,60325,La Boveda,Spanish Restaurant,50.12268779322748,8.664401912816784,"Feldbergstr 10, Frankfurt am Main",787
+354,60325,The Ivory Club,Indian Restaurant,50.114309,8.669109,"Taunusanlage 15 (Ecke Guiollettstraße), 60325 Frankfurt am Main",867
+355,60325,Bockenheimer Weinkontor,Wine Bar,50.11797015070293,8.644186638879637,"Schloßstr. 92, 60486 Frankfurt am Main",972
+356,60325,Mainhattan Sports,Gym / Fitness Center,50.11182685614125,8.658027455186744,"Rheinstraße 27, 60325 Frankfurt am Main",582
+357,60325,ZENZAKAN - Pan Asian Supperclub,Asian Restaurant,50.11486697455312,8.669458092164287,"Taunusanlage 15, 60325 Frankfurt am Main",871
+358,60325,Holiday Inn Frankfurt - Alte Oper,Hotel,50.1110216,8.6655953,"Mainzer Landstrasse 27, 60329 Frankfurt am Main",874
+359,60325,Manufactum brot&butter,Food & Drink Shop,50.11595805369511,8.670772486206868,"Bockenheimer Anlage 49-50, 60322 Frankfurt am Main",938
+360,60326,Melody Karaoke,Karaoke Bar,50.10105982219212,8.63442389332929,"Lahnstr. 53 (Schwalbacher Str.), 60326 Frankfurt am Main",623
+361,60326,Alim's Fischimbiss,Seafood Restaurant,50.10239213757017,8.6369897294411,"Mainzer Landstr. 294-296, 60326 Frankfurt am Main",473
+362,60326,Basaglia,Café,50.104272506984,8.647169585097883,"Mainzer Landstrasse 233, Frankfurt am Main",481
+363,60326,La Strada,Pizza Place,50.101011,8.633337,"Lahnstraße 70, 60326 Frankfurt am Main",700
+364,60326,Engel Pizza & Pasta,Italian Restaurant,50.10386837232859,8.636108886149822,"Schwalbacher Str. 66, 60326 Frankfurt am Main",607
+365,60326,Dora Brilliant,Nightclub,50.09824495764408,8.646299204324364,Frankfurt am Main,363
+366,60326,Tanzhaus West,Nightclub,50.09824484161586,8.646381338383703,"Gutleutstraße 294, 60327 Frankfurt am Main",366
+367,60326,DORMERO Hotel,Hotel,50.10810649320131,8.644106860744245,"Lissabonner Str. 2, 60327 Frankfurt am Main",816
+368,60326,Mahlzeit,Restaurant,50.10349959998523,8.636081529727036,"Schwalbacher Strasse 62, 60326 Frankfurt am Main",586
+369,60326,Druckwasserwerk,German Restaurant,50.09697966686012,8.65341655723919,"Am Druckwasserwerk 1, 60327 Frankfurt am Main",847
+370,60326,Pizzeria Quattro Stelle,Pizza Place,50.1031644633772,8.644546843654457,Frankfurt am Main,281
+371,60326,Central Grill,Turkish Restaurant,50.10322863663214,8.643937622190997,"Mainzer Landstraße 240 (Hufnagelstraße), 60326 Frankfurt am Main",276
+372,60326,Capri by Fraser Frankfurt,Hotel,50.108895642105345,8.648790202351199,"Europaallee 42, Frankfurt am Main",987
+373,60326,INTER Markt,Grocery Store,50.099803482711145,8.635719344955332,"Kleyer strasse 74-78, 60326 Frankfurt am Main",541
+374,60326,Premier Inn Frankfurt Messe,Hotel,50.1089718,8.6475936,"Europa-Allee 44, 60327 Frankfurt am Main",963
+375,60326,Bürger for u - Your Burger,Burger Joint,50.101904,8.633354,"Krifteler Straße 61 (Mainzer Landstraße), 60326 Frankfurt am Main",709
+376,60326,Elia Restaurant - Bar,Greek Restaurant,50.10458750676413,8.641439899293005,"Frankenallee 111, 60326 Frankfurt am Main",438
+377,60326,Mei Mei Chinapoint,Asian Restaurant,50.1028205972826,8.641377303796355,"Mainzer Landstrasse 258, 60326 Frankfurt am Main",257
+378,60326,Konamon,Japanese Restaurant,50.103886,8.63654,"Frankenallee 161, 60326 Frankfurt am Main",583
+379,60326,daVinc CUCINA E VINO,Italian Restaurant,50.10776203754079,8.65160909526651,"Kölner Str. 4, 60327 Frankfurt am Main",982
+380,60326,korrekt food,Food Court,50.103731979809346,8.648469543586426,"mainzerldstr. 229, 60326 Frankfurt am Main",500
+381,60326,Licht- und Luftbad,Park,50.093798167024715,8.646701827678484,"Niederräder Ufer 10, 60528 Frankfurt am Main",820
+382,60326,REWE,Supermarket,50.10394067783841,8.636772407854892,"Frankenallee 157, 60326 Frankfurt am Main",573
+383,60326,Coffee Alley 29,Coffee Shop,50.1086,8.649726,"Europa-Allee 29, 60327 Frankfurt am Main",987
+384,60326,Ponton Lilu,Beer Garden,50.093791882285,8.646791107521027,Frankfurt am Main,822
+385,60326,Bold Apartments,Boarding House,50.10589338572077,8.640926498349623,"Idsteiner Straße 15, 60326 Frankfurt am Main",588
+386,60326,The FIZZ Frankfurt Gallus,College Residence Hall,50.102202,8.637738,"Mainzer Landstraße, 323, 60326 Frankfurt am Main",416
+387,60326,Gallus Theater,Concert Hall,50.102027402811416,8.642517948918112,"Kleyerstraße 15, 60326 Frankfurt am Main",143
+388,60326,REWE Center,Supermarket,50.102172,8.63219,"Mainzer Landstraße 330-360, 60326 Frankfurt am Main",796
+389,60326,Gute Stute,Pub,50.10736447399144,8.648300937504407,"Kölner Str. 42, 60327 Frankfurt am Main",818
+390,60327,Druckwasserwerk,German Restaurant,50.09697966686012,8.65341655723919,"Am Druckwasserwerk 1, 60327 Frankfurt am Main",485
+391,60327,Dora Brilliant,Nightclub,50.09824495764408,8.646299204324364,Frankfurt am Main,75
+392,60327,Tanzhaus West,Nightclub,50.09824484161586,8.646381338383703,"Gutleutstraße 294, 60327 Frankfurt am Main",73
+393,60327,Licht- und Luftbad,Park,50.093798167024715,8.646701827678484,"Niederräder Ufer 10, 60528 Frankfurt am Main",424
+394,60327,Ponton Lilu,Beer Garden,50.093791882285,8.646791107521027,Frankfurt am Main,425
+395,60327,Melody Karaoke,Karaoke Bar,50.10105982219212,8.63442389332929,"Lahnstr. 53 (Schwalbacher Str.), 60326 Frankfurt am Main",955
+396,60327,Basaglia,Café,50.104272506984,8.647169585097883,"Mainzer Landstrasse 233, Frankfurt am Main",741
+397,60327,Cron am Hafen,Italian Restaurant,50.099457160801684,8.659221101193523,"Speicherstr. 39-45, 60327 Frankfurt am Main",918
+398,60327,Alim's Fischimbiss,Seafood Restaurant,50.10239213757017,8.6369897294411,"Mainzer Landstr. 294-296, 60326 Frankfurt am Main",872
+399,60327,INTER Markt,Grocery Store,50.099803482711145,8.635719344955332,"Kleyer strasse 74-78, 60326 Frankfurt am Main",819
+400,60327,Chamäleon,Restaurant,50.099697,8.658938,"Speicherstrasse 49-51 (Zanderstrasse), 60327 Frankfurt am Main",905
+401,60327,Pizzeria Quattro Stelle,Pizza Place,50.1031644633772,8.644546843654457,Frankfurt am Main,636
+402,60327,Mahlzeit,Restaurant,50.10349959998523,8.636081529727036,"Schwalbacher Strasse 62, 60326 Frankfurt am Main",1001
+403,60327,Central Grill,Turkish Restaurant,50.10322863663214,8.643937622190997,"Mainzer Landstraße 240 (Hufnagelstraße), 60326 Frankfurt am Main",654
+404,60327,korrekt food,Food Court,50.103731979809346,8.648469543586426,"mainzerldstr. 229, 60326 Frankfurt am Main",692
+405,60327,émile - ma petite cuisine,Bistro,50.09947287535607,8.659525617124592,"Bachforellenweg 51, Frankfurt am Main",939
+406,60327,Elia Restaurant - Bar,Greek Restaurant,50.10458750676413,8.641439899293005,"Frankenallee 111, 60326 Frankfurt am Main",861
+407,60327,Mei Mei Chinapoint,Asian Restaurant,50.1028205972826,8.641377303796355,"Mainzer Landstrasse 258, 60326 Frankfurt am Main",692
+408,60327,REWE,Supermarket,50.10394067783841,8.636772407854892,"Frankenallee 157, 60326 Frankfurt am Main",998
+409,60327,The FIZZ Frankfurt Gallus,College Residence Hall,50.102202,8.637738,"Mainzer Landstraße, 323, 60326 Frankfurt am Main",817
+410,60327,Gallus Theater,Concert Hall,50.102027402811416,8.642517948918112,"Kleyerstraße 15, 60326 Frankfurt am Main",574
+411,60327,Trinkhalle im Turm,Bar,50.103385755452685,8.64473116279842,Frankfurt am Main,657
+412,60327,Rossmann,Drugstore,50.10198373995925,8.636305008129558,"Mainzer Landstr. 341, 60326 Frankfurt am Main",886
+413,60327,Cetin Grill,Mediterranean Restaurant,50.10389651952791,8.637074813128562,"Frankenallee 153, 60326 Frankfurt am Main",979
+414,60327,Pearl Hotel,Hotel,50.10116290188624,8.65865500401415,"Gutleutstr. 173, 60327 Frankfurt am Main",941
+415,60327,Y&R Frankfurt,Museum,50.10185630652577,8.641501793153202,"Kleyerstr. 19, 60326 Frankfurt am Main",599
+416,60327,Maximilian's,German Restaurant,50.104453,8.637975,"Hattersheimer Str. 2-6, 60326 Frankfurt am Main",982
+417,60327,Asia Wok & Express,Asian Restaurant,50.10154296689107,8.640554893745183,"Lahnstr. 4 (Kleyerstrasse), 60326 Frankfurt am Main",618
+418,60327,Sommerhoffpark,Park,50.096241781445784,8.642844124242615,"Gutleutstr., 60327 Frankfurt am Main",313
+419,60327,Billback,Bakery,50.104137,8.638775,"Kriegkstraße 73, 60326 Frankfurt am Main",919
+420,60329,Saravanaa Bhavan,Indian Restaurant,50.10815979993023,8.666834235191345,"Kaiserstr 66, 60329 Frankfurt am Main",67
+421,60329,City Kiosk Yok-Yok,Convenience Store,50.10755331918962,8.668509708635826,"Münchenerstr. 32, 60329 Frankfurt am Main",156
+422,60329,Der Fette Bulle,Burger Joint,50.107692,8.666418,"Kaiserstraße 73, 60311 Frankfurt am Main",8
+423,60329,Plank,Bar,50.107657,8.668648,"Münchener Str. 30 (Elbestr.), 60329 Frankfurt am Main",165
+424,60329,Kabuki,Japanese Restaurant,50.109034837022676,8.670183015624227,"Kaiserstr. 42, 60329 Frankfurt am Main",315
+425,60329,eatDOORI,Indian Restaurant,50.10841,8.668881,"Kaiserstr. 55, 60329 Frankfurt am Main",201
+426,60329,Lam Frères,Vietnamese Restaurant,50.10810615694838,8.670092923656206,"Weserstrasse 12, 60 329 Frankfurt am Main",273
+427,60329,COA - Asian food,Asian Restaurant,50.10808456697142,8.666420024233247,"Kaiserstr. 68 (Moselstr.), 60320 Frankfurt am Main",48
+428,60329,mian,Chinese Restaurant,50.109864,8.664454,"Niddastr. 52, 60329 Frankfurt am Main",280
+429,60329,Istanbul Fisch Grill,Seafood Restaurant,50.10773437393767,8.669441196524987,"Münchener Straße, Frankfurt am Main",222
+430,60329,KAISER Zeit Kaiser Biobäckerei,Bakery,50.10836325547043,8.668340502771,Frankfurt am Main,164
+431,60329,Selera Malaysian Restaurant,Malay Restaurant,50.10706852147912,8.666491321542344,"Münchener Str. 52, 60329 Frankfurt am Main",65
+432,60329,Good Guys,Burger Joint,50.108476355394416,8.668392410521264,"Kaiserstraße 56, 60329 Frankfurt am Main",173
+433,60329,Hunky Dory,Cocktail Bar,50.103891712844565,8.665367323347024,"Baseler Straße 10, 60329 Frankfurt am Main",423
+434,60329,Holiday Inn Frankfurt - Alte Oper,Hotel,50.1110216,8.6655953,"Mainzer Landstrasse 27, 60329 Frankfurt am Main",379
+435,60329,Tatie,Moroccan Restaurant,50.108516,8.663248,"Am Hauptbahnhof 18, 60329 Frankfurt am Main",240
+436,60329,Simit Café,Café,50.108877956596935,8.669748424341634,"Kaiserstr. 44 (Weserstr.), 60329 Frankfurt am Main",279
+437,60329,Pracht,Café,50.10938851777609,8.663686987093655,"Niddastr. 54 (Karlstr.), 60329 Frankfurt am Main",270
+438,60329,Im Herzen Afrikas,African Restaurant,50.107422,8.671543,"Gutleutstraße 13, 60329 Frankfurt am Main",373
+439,60329,AMP,Bar,50.1091685440766,8.672193719471117,"Gallusanlage 2, Frankfurt am Main",451
+440,60329,English Theatre Frankfurt,Theater,50.10951005649988,8.672403209363361,"Gallusanlage 7, 60311 Frankfurt am Main",480
+441,60329,Club Michel,Modern European Restaurant,50.10818258880777,8.6708671908189,"Münchner Str. 12, 60329 Frankfurt am Main",329
+442,60329,Stanley Diamond,Restaurant,50.1087588020894,8.65987094123319,"Ottostr. 16-18, 60329 Frankfurt am Main",477
+443,60329,dm-drogerie markt,Drugstore,50.1075803,8.6662591,"Kaiserstraße 75, 60329 Frankfurt am Main",9
+444,60329,Mainufer,Waterfront,50.106267532738286,8.674070835113525,"Untermainkai, 60594 Frankfurt am Main",573
+445,60329,Aloha Poke,Restaurant,50.1087724,8.66909221,"Kaiserstr. 48, 60329 Frankfurt am Main",233
+446,60329,Roomers,Hotel,50.104598835092546,8.666686713695526,"Gutleutstr. 85, 60329 Frankfurt am Main",340
+447,60329,Augenblick Kaffee & Co,Café,50.11006671867676,8.661992941681802,"Mainzer Landstr. 65, 60329 Frankfurt am Main",410
+448,60329,Le Méridien Frankfurt,Hotel,50.105573,8.666769,"Wiesenhuettenplatz 38, 60329 Frankfurt am Main",233
+449,60329,25hours Hotel Frankfurt The Trip,Hotel,50.109415581630515,8.663022906891683,"Niddastr. 58, 60329 Frankfurt am Main",307
+450,60385,Morcolade,Café,50.12297396459732,8.70562167943558,Frankfurt am Main,211
+451,60385,Ciro il Lattaio,Italian Restaurant,50.12235448698481,8.699951096733319,"Berger Str. 89, 60316 Frankfurt am Main",210
+452,60385,Ginkgo,Restaurant,50.12198806992871,8.699230240877776,"Berger Str. 81, 60316 Frankfurt am Main",262
+453,60385,Heroes Premium Burgers,Burger Joint,50.12359316199978,8.699743634971707,"Leibnizstr. 13 (Heidestr.), 60316 Frankfurt am Main",270
+454,60385,Destino,Tapas Restaurant,50.12203279028859,8.702842031252978,"Habsburgerallee 9, 60385 Frankfurt am Main",23
+455,60385,Sonamu (소나무),Korean Restaurant,50.12518832818083,8.70613619108301,"Berger Str. 184, 60385 Frankfurt am Main",401
+456,60385,Sindam Bistro & Cafe,Falafel Restaurant,50.12487198528814,8.705395323846446,"Bergerstr. 170 60385, Frankfurt am Main",343
+457,60385,Best Worscht in Town,Currywurst Joint,50.12135037683177,8.697869123580963,"Berger Str. 80, 60316 Frankfurt am Main",371
+458,60385,Picknick Café Bar,Café,50.1254271209023,8.707410588142626,"Spessartstr. 2 (Mainkurstr.), 60385 Frankfurt am Main",479
+459,60385,Tischlein Deck Dich,Modern European Restaurant,50.122865,8.70083,"Berger Straße 99, 60316 Frankfurt am Main",162
+460,60385,Kleines Café Schneider,Café,50.12235443310444,8.699027277297548,"Heideplatz 1, 60316 Frankfurt am Main",276
+461,60385,PRIME TIME fitness 5,Gym / Fitness Center,50.12477367408804,8.704389271074767,"Berger Straße 147, 60385 Frankfurt am Main",301
+462,60385,Mousonturm,Performing Arts Venue,50.11925730187881,8.698865175247192,"Waldschmidtstr. 4, 60316 Frankfurt am Main",439
+463,60385,Das Nord²,Bar,50.12004567694415,8.698873500481893,"Sandweg 64, 60316 Frankfurt am Main",376
+464,60385,Café Wacker,Café,50.125706,8.706824,"Berger Str. 185, 60385 Frankfurt am Main",477
+465,60385,El Pacifico Cantina Mexicana,Mexican Restaurant,50.11969338471655,8.698189863935346,"Sandweg 79 (Kantstr.), 60316 Frankfurt am Main",439
+466,60385,Café Kante,Café,50.12021191668958,8.696861401802307,"Kantstr. 13, 60316 Frankfurt am Main",486
+467,60385,shisan,Japanese Restaurant,50.12225312721325,8.696765654528232,"Bornheimer Landstr. 21, 60316 Frankfurt am Main",437
+468,60385,Fonda De Santiago,Mexican Restaurant,50.12533,8.697207,"Martin-Luther-Straße 17, 60316 Frankfurt am Main",532
+469,60385,Café Faleyda,Café,50.120503739652115,8.695804689857995,"Merianstr. 4, 60316 Frankfurt am Main",541
+470,60385,Berger Streetfood,Asian Restaurant,50.12219512118385,8.699535548922244,"Berger Str. 83, 60316 Frankfurt am Main",239
+471,60385,Forno d' Oro II,Italian Restaurant,50.1221344,8.6961649,"Luisenstr. 23 (Bornheimer Landstr.), 60316 Frankfurt am Main",480
+472,60385,Luisenplatz,Plaza,50.122297125006014,8.69667721428879,"Luisenstr. (Bornheimer Landstr.), 60316 Frankfurt am Main",443
+473,60385,Wochenmarkt am Uhrtürmchen,Market,50.125568595301495,8.70696206925249,"Berger Str., 60385 Frankfurt am Main",470
+474,60385,Kaiser Biobäckerei,Bakery,50.1213485868715,8.69789067825492,Frankfurt am Main,370
+475,60385,UNA Cevapcici,Fast Food Restaurant,50.125027558413294,8.707858493718934,60385 Frankfurt am Main,471
+476,60385,Caffè Leidenschaft,Café,50.121871342147,8.698800802230835,"Berger Str. 79 (Bornheimer Landstr.), 60316 Frankfurt am Main",294
+477,60385,TRARES Restaurant & Bar,Modern European Restaurant,50.12111004085111,8.69589505325092,"Luisenstraße 7, 60316 Frankfurt am Main",515
+478,60385,No. 16,Italian Restaurant,50.127555577426506,8.703413763225003,"Löwengasse 27a, 60385 Frankfurt am Main",592
+479,60385,Traumkuh,Burger Joint,50.124258,8.704341,"Berger Straße 154 (Eichwaldstraße), 60385 Frankfurt am Main",247
+480,60386,Klassikstadt,Science Museum,50.13198868428167,8.75548931295904,"Orber Str. 4a (Cassellastr.), 60386 Frankfurt am Main",323
+481,60386,Fattoria La Vialla,Gourmet Shop,50.13042586009261,8.755731362616556,"Cassellastr. 30-32, 60386 Frankfurt am Main",310
+482,60386,Die Werkskantine,German Restaurant,50.13220649038015,8.755471317667366,"Orber Str. 4a, 60386 Frankfurt am Main",331
+483,60386,Kaufland,Big Box Store,50.13170974495611,8.74943607718924,"Wächtersbacher Str. 75, 60386 Frankfurt am Main",747
+484,60386,Harley-Davidson Factory,Sporting Goods Shop,50.13075721927132,8.749750601793306,"Wächtersbacher Str. 83, 60386 Frankfurt am Main",725
+485,60386,T Hall,Climbing Gym,50.133517352319544,8.765915339206854,"Vilbeler Landstr. 7, Frankfurt am Main",497
+486,60386,Mainstation,Hotel,50.13388682301979,8.766385890259132,"An der Mainkur 7, 60386 Frankfurt am Main",547
+487,60386,360 BBQ,BBQ Joint,50.13028855397275,8.749855793498995,Deutschland,724
+488,60386,Lidl,Supermarket,50.1311326,8.7607196,"Hanauer Landstraße 519, 60386 Fechenheim",61
+489,60386,Bier-Hannes,Brewery,50.13330426717107,8.768069904711455,"Hanauer Landstr., Frankfurt am Main",626
+490,60386,Heinrich-Kraft-Park,Park,50.13657722083216,8.766583457191045,"Kilanstädter Str., 60386 Frankfurt am Main",759
+491,60386,McFIT,Gym / Fitness Center,50.13138529411288,8.762095311494704,"Hanauer Landstraße 523, 60386 Frankfurt am Main",158
+492,60386,Celik Center - Internationale Lebensmittel,Supermarket,50.13170468,8.75930809,"Cassellastraße 27D, 60389 Frankfurt am Main",63
+493,60386,H Casselastraße,Tram Station,50.129540662753854,8.759279251098633,"Hanauer Landstr. 513, 60386 Frankfurt am Main",197
+494,60386,Sitzfeldt,Furniture / Home Store,50.131111,8.758281,"Cassellastraße 30-32, 60368 Frankfurt am Main",115
+495,60386,A.T.U Frankfurt am Main - Fechenheim,Automotive Shop,50.129822,8.758092,"Hanauer Landstraße 505, 60386 Frankfurt am Main",205
+496,60386,Escape Adventures,Escape Room,50.132366,8.765497,"Hanauer Landstr. 551, 60386 Fechenheim",418
+497,60386,Tesla Motors Service Center,Automotive Shop,50.132993348991434,8.765798102091122,"Hanauer Landstrasse 553, 60386 Frankfurt am Main",463
+498,60386,Budget Deutschland,Rental Car Location,50.134189,8.76892,"Hanauer Landstrasse 575, 60386 Frankfurt am Main",721
+499,60386,Gartenbad Fechenheim,Gym Pool,50.12528698710903,8.765303566208507,"Konstanzer Str. 16, 60386 Fechenheim",770
+500,60386,Aquanaut,Sporting Goods Shop,50.13196841208272,8.74724254370164,Deutschland,905
+501,60386,Netto City,Supermarket,50.12490538,8.76885758,"Alt Fechenheim 74, 60386 Frankfurt am Main",955
+502,60386,H Arthur-von-Weinberg-Steg,Tram Station,50.12517168541636,8.76940840651753,"Fechenheimer Leinpfad 53, 60386 Frankfurt am Main",960
+503,60386,Fabriksporthalle,Athletics & Sports,50.13211467180489,8.746421607065319,Deutschland,965
+504,60388,Riedbad Bergen-Enkheim,Water Park,50.151473225643926,8.76329038456943,"Fritz-Schubert-Ring 2, 60388 Frankfurt am Main",909
+505,60388,REWE,Supermarket,50.1550683,8.7488479,"Marktstraße 1, 60388 Frankfurt am Main",200
+506,60388,Schöne Aussicht,German Restaurant,50.1542766961685,8.755704276568876,"Im Sperber 24, 60388 Frankfurt am Main",296
+507,60388,Pizzeria Carlo,Italian Restaurant,50.155415592269144,8.754072488061508,"Marktstr., 60388 Frankfurt am Main",187
+508,60388,Eis Café Cristallo,Ice Cream Shop,50.155429712330026,8.753476775373766,"Marktstr. 47, 60388 Frankfurt am Main",149
+509,60388,Bäcker Eifler,Food & Drink Shop,50.155173012196315,8.75207465094968,Deutschland,52
+510,60388,Taverna Platea,Taverna,50.158574,8.752454,"Marktstr. 43, 60388 Frankfurt am Main",424
+511,60388,Marktplatz Bergen,Plaza,50.158445198342726,8.758875521387013,Deutschland,657
+512,60389,Café Coo Coo,Café,50.135953,8.701857,"Dortelweiler Str. 87, 60389 Frankfurt am Main",149
+513,60389,Günthersburgpark,Park,50.13015277977972,8.702888488769531,"Hartmann-Ibach-Str. (Weidenbornstr.), 60389 Frankfurt am Main",500
+514,60389,Cafe im Güntherburgspark,Café,50.13044568817379,8.704850975418813,"Weidenbornstr., 60385 Frankfurt am Main",503
+515,60389,Kornkammer,Bakery,50.12832728091088,8.696888230847033,"Rohrbachstr. 27, 60389 Frankfurt am Main",794
+516,60389,REWE,Supermarket,50.12798189800976,8.707926678049944,"Heidestr. 137, 60385 Frankfurt am Main",846
+517,60389,No. 16,Italian Restaurant,50.127555577426506,8.703413763225003,"Löwengasse 27a, 60385 Frankfurt am Main",791
+518,60389,Platz im Herzen,Bar,50.12865453990642,8.698813747307115,60389 Frankfurt am Main,705
+519,60389,Marie Feines Eis,Ice Cream Shop,50.127622,8.706422,60385 Frankfurt am Main,837
+520,60389,MokkaTeeria,Café,50.12767140944584,8.708793650915316,"Heidestr. 149, 60385 Frankfurt am Main",908
+521,60389,Prager Botschaft,Czech Restaurant,50.128674,8.70697,"Im Prüfling 28, 60385 Frankfurt am Main",746
+522,60389,Chairs,Restaurant,50.12848613127898,8.706999724054068,"Gronauer Str. 1, 60385 Frankfurt am Main",766
+523,60389,Paparazzi Restaurant,Italian Restaurant,50.13371357843281,8.711728091428405,60389 Frankfurt am Main,692
+524,60389,Apfelwein Solzer,Apple Wine Pub,50.12826433627976,8.711232199739797,"Berger Str. 260, 60385 Frankfurt am Main",960
+525,60389,Wasserpark,Park,50.13660241003608,8.696934189360272,"Friedberger Landstr. 336, Frankfurt am Main",431
+526,60389,Mancini - Eat Smart,French Restaurant,50.127929,8.710051,Frankfurt am Main,935
+527,60389,Backstage,Pub,50.1280705823114,8.69537760496956,"Rothschildallee 36 (Rohrbachtstraße), 60389 Frankfurt am Main",874
+528,60389,tegut…,Supermarket,50.139616,8.698938,"Friedberger Landstr. 408 (Valentin-Senger-Str.), 60389 Frankfurt am Main",600
+529,60389,Al Terrazzino,Italian Restaurant,50.12929764441615,8.693402105557977,"Rothschildallee 52 (Friedberger Landstraße), 60389 Frankfurt am Main",859
+530,60389,Süden,Café,50.128061743823025,8.710286527189666,"Berger Str. 239, 60385 Frankfurt am Main",933
+531,60389,Schöneberger,German Restaurant,50.12797550516889,8.710145163879103,"Bergerstr. 237 (Löwengasse), 60385 Frankfurt am Main",935
+532,60389,Pizzeria Dick & Doof,Pizza Place,50.128005622885574,8.710183116146625,"Berger Str. 248, 60385 Frankfurt am Main",934
+533,60389,Schandis,Middle Eastern Restaurant,50.1293714274103,8.691698728068403,"Nordendstr. 2 (Nibelungenallee), 60318 Frankfurt am Main",946
+534,60389,Kiosk 45,Convenience Store,50.12726017495785,8.703602622957305,Frankfurt am Main,826
+535,60389,Friedberger Warte,Historic Site,50.1394791009067,8.698326579035827,60389 Frankfurt am Main,605
+536,60389,Awake,Café,50.1287183653623,8.692457260837356,"Nibelungenplatz 3, 60318 Frankfurt am Main",953
+537,60389,The Irish Pub Bornheim (IPB),Irish Pub,50.12868571546587,8.71134637259536,"Berger Str. 255, 60385 Frankfurt am Main",932
+538,60389,Wein Dünker,Wine Bar,50.12905597199821,8.712333082532384,"Berger Str. 265, 60385 Frankfurt am Main",955
+539,60389,Alnatura,Organic Grocery,50.126257960572225,8.702382175762839,"Burgstr. 106, 60389",931
+540,60389,Shishandis,Hookah Bar,50.129479064241934,8.691435783877285,"Nibelungenallee 3, 60318 Frankfurt am Main",954
+541,60389,Fünffingerplatz,Plaza,50.12754301777643,8.709593794461579,"Fünffingerplatz (Berger Str.), Frankfurt am Main",951
+542,60431,Zum Adler,German Restaurant,50.143994739198874,8.649135633219455,"Ginnheimer Hohl 2a, 60431 Frankfurt am Main",181
+543,60431,Trattoria Pizzeria 6611,Trattoria/Osteria,50.145340976839805,8.651210822316692,"Am Mühlgarten 2, 60431 Frankfurt am Main",46
+544,60431,Ginnheimer Wirtshaus,German Restaurant,50.14566825934809,8.643469783425415,"Am Ginnheimer Wäldchen 8, 60431 Frankfurt am Main",506
+545,60431,Exis,Greek Restaurant,50.140715723215045,8.639395236968994,"Am Ginnheimer Wäldchen 3, 60431 Frankfurt am Main",948
+546,60431,Lidl,Supermarket,50.13895711368489,8.654517531394958,"Platenstraße 99, 60431 Ginnheim",765
+547,60431,Confiserie Amendt,Dessert Shop,50.14702876714297,8.661652744135584,"Huegelstr., Frankfurt am Main",813
+548,60431,REWE,Supermarket,50.1447652,8.6505351,"Ginnheimer Hohl 9 (bei Mühlgarten), 60431 Frankfurt am Main",65
+549,60431,REWE,Supermarket,50.1489205,8.6570168,"Kurhessenstr. 95, 60431 Frankfurt am Main",608
+550,60431,REWE,Supermarket,50.14085912510755,8.647868906786812,"Ginnheimer Landstraße 164-180, 60431 Frankfurt am Main",535
+551,60431,Ginnheimer Kirchplatz,Plaza,50.14463995746106,8.648654571678914,Frankfurt am Main,156
+552,60431,ALDI SÜD,Discount Store,50.1410051902921,8.662256999999954,"Raimundstraße 101, 60320 Frankfurt-Ginnheim",965
+553,60431,Mayer Bäckerei,Bakery,50.14333142585165,8.65417317437698,"Raimundstraße, Frankfurt am Main",342
+554,60431,Sanmaru Restaurant und Hotel,Asian Restaurant,50.14201079375434,8.647792266889121,"Ginnheimer Landstr. 183, 60431 Frankfurt am Main",420
+555,60431,Listen To AFN,Music Store,50.14203008960894,8.646818155310598,Frankfurt am Main,455
+556,60431,TOTAL Tankstelle,Gas Station,50.1479845,8.65646017,"Kurhessenstr. 111, 60431 Frankfurt am Main",513
+557,60431,PiZZERİA JONNY,Italian Restaurant,50.14105458076851,8.647814235396472,Frankfurt am Main,516
+558,60431,Ginnheimer Kebap Haus,Doner Restaurant,50.14038459351775,8.647578461146079,Frankfurt am Main,592
+559,60431,Ristorante da Somma,Italian Restaurant,50.148958439409974,8.657484306949899,"Am Schwalbenschwanz, 60431 Frankfurt am Main",636
+560,60431,Colorado Park,Playground,50.14109485154881,8.661431494708008,"Raimund-Straße, 60320 Frankfurt am Main",909
+561,60431,Minigolf-Platz an der Nidda,Mini Golf,50.15123838950869,8.641670175983823,"Hadrianstr. 50, 60439 Frankfurt am Main",911
+562,60431,TSG 51 Fussballverein,Soccer Field,50.15358509781324,8.648357956479227,"Niedwiesenstr., Frankfurt am Main",929
+563,60431,Markus-Krankenhaus Straßenbahn,Tram Station,50.136852319576654,8.645946745180629,Frankfurt am Main,1001
+564,60433,Zur Golden Kron,Restaurant,50.16127037,8.656112775206566,"Alt Eschersheim 58, 60433 Frankfurt am Main",635
+565,60433,Speisekammer,German Restaurant,50.15734998460877,8.648522308799514,"Alt Heddernheim 41, 60439 Frankfurt am Main",874
+566,60433,Momberger,German Restaurant,50.158405819478034,8.649680237975687,"Alt-Heddernheim 13, 60439 Frankfurt am Main",816
+567,60433,Brighella,Italian Restaurant,50.150889671105496,8.663138933305246,"Eschersheimer Landstraße 442, 60433 Frankfurt am Main",634
+568,60433,Eiscafe Lido Frankfurt Eschersheim,Ice Cream Shop,50.15654588202367,8.656917660876974,"Eschersheimer Landstrasse 544, 60433 Frankfurt am Main",269
+569,60433,Brunswick Eschersheim,Bowling Alley,50.16454624383579,8.663392214980929,"Berkersheimer Weg 104, 60433 Frankfurt am Main",930
+570,60433,Aral,Gas Station,50.15168296,8.66213079,"Eschersheimer Landstr. 523, 60431 Frankfurt am Main",531
+571,60433,Freibad Eschersheim,Pool,50.16332689676583,8.655641079589612,Deutschland,854
+572,60433,REWE,Supermarket,50.1489205,8.6570168,"Kurhessenstr. 95, 60431 Frankfurt am Main",869
+573,60433,Weißer Stein,Plaza,50.156698067782465,8.656812744659328,"Am Weißen Stein (Eschersheimer Landstr.), 60433 Frankfurt am Main",278
+574,60433,REWE,Supermarket,50.1479925,8.6652192,"Hügelstraße 134-136, 60431 Frankfurt am Main",986
+575,60433,H Weißer Stein,Bus Stop,50.15646130977448,8.656886610660107,Frankfurt am Main,270
+576,60433,Lotto & Presse Shop Schaad,Convenience Store,50.156703856491184,8.655871299999916,"Am weißen Stein 15, Frankfurt am Main",345
+577,60433,Ristorante Nuraghe,Italian Restaurant,50.15286636247895,8.661062050104407,"Eschersheimer Landstr. 535, 60431 Frankfurt am Main",390
+578,60433,U Lindenbaum,Metro Station,50.15240376230096,8.661754131317137,"Eschersheimer Landstr. (Am Lindenbaum), Frankfurt am Main",447
+579,60433,REWE CITY,Supermarket,50.15911029954961,8.65534120415009,"Maybachstraße 20 (an der Batschkapp), 60433 Frankfurt am Main",488
+580,60433,Packstation 117,Shipping Store,50.15204885672686,8.661943300616505,"Hügelstrasse 181, 60431 Frankfurt am Main",489
+581,60433,Bowling World Eschersheim,Bowling Alley,50.16456955297456,8.663374141569841,"Berkersheimer Weg 104, 60433 Frankfurt am Main",933
+582,60433,Ristorante da Somma,Italian Restaurant,50.148958439409974,8.657484306949899,"Am Schwalbenschwanz, 60431 Frankfurt am Main",855
+583,60433,TSG 51 Fussballverein,Soccer Field,50.15358509781324,8.648357956479227,"Niedwiesenstr., Frankfurt am Main",932
+584,60433,U Heddernheim,Metro Station,50.16132004856999,8.649847571683672,"Nassauer Str., Frankfurt am Main",949
+585,60433,TOTAL Tankstelle,Gas Station,50.1479845,8.65646017,"Kurhessenstr. 111, 60431 Frankfurt am Main",980
+586,60435,DAV Kletterzentrum,Climbing Gym,50.160000490621144,8.686608440337094,"Homburger Landstr. 283, 60433 Frankfurt am Main",714
+587,60435,KING CREOLE,Cajun / Creole Restaurant,50.149340214453815,8.680764300165166,"Eckenheimer Landstr. 346, 60435 Frankfurt am Main",935
+588,60435,Homburger Hof - Ein Ort für Bembelkultur,Beer Garden,50.14968883847763,8.681964083808705,"Engelthaler Str. 11, 60435 Frankfurt am Main",844
+589,60435,boesner,Arts & Crafts Store,50.162119848297685,8.689222633838654,"August-Schanz-Str. 12, 60433 Frankfurt am Main",879
+590,60435,dm-drogerie markt,Drugstore,50.15572278907642,8.698903790640088,"Gundelandstraße 22, 60435 Frankfurt am Main Nord-Ost",562
+591,60435,REWE Getränke,Liquor Store,50.1601929,8.68851073,"Am Dachsberg 202A (Homburger Landstraße), 60435 Frankfurt am Main",682
+592,60435,ALDI SÜD,Supermarket,50.160640098037184,8.687493506557985,"Homburger Landstraße 268 (August-Schanz-Str.), 60433 Frankfurt am Main",753
+593,60435,REWE,Supermarket,50.1599133,8.6887118,"Am Dachsberg 204 (Homburger Landstr.), 60435 Frankfurt am Main",648
+594,60435,Packstation 116,Shipping Store,50.15168537340776,8.69319850465288,"Jaspertstr. 5, 60435 Frankfurt am Main",323
+595,60435,Der Bäcker Eifler Le Cafe',Bakery,50.151250327457326,8.69096070045408,"Homburger Landstraße, Frankfurt am Main",343
+596,60435,U Sigmund-Freud-Straße,Metro Station,50.1548792662626,8.686166408427331,"Gießener Straße (Sigmund-Freud-Straße), 60435 Frankfurt am Main",372
+597,60435,U Ronneburgstraße,Metro Station,50.150832918498615,8.688409924507141,"Gießener Str. (Ronneburgstr.), 60435 Frankfurt am Main",441
+598,60435,A.T.U,Automotive Shop,50.158665,8.688934,"Homburger Landstr. 238, 60435 Frankfurt am Main",511
+599,60435,Lidl,Supermarket,50.162075173256135,8.685598969459534,"August-Schanz-Straße 60-64, 60433 Frankfurt am Main",953
+600,60435,H Gravensteiner Platz,Tram Station,50.15517409629008,8.69869351387024,"Gravensteiner Platz (Weilbrunnstr.), Frankfurt am Main",534
+601,60435,tegut,Supermarket,50.155724,8.698711,"Gravensteiner-Platz 4-6, 60435 Frankfurt-Preungesheim",549
+602,60435,U Preungesheim,Metro Station,50.15869446415982,8.687681061018024,"Gießener Str. (Homburger Landstr.), 60435 Frankfurt am Main",550
+603,60435,Eis Cafè San Marco,Ice Cream Shop,50.156275,8.698503,"Gravensteiner-Platz 6, 60435 Frankfurt am Main",556
+604,60435,"Park ""An den Drei Hohen""",Park,50.15763804535536,8.698983261080281,Frankfurt am Main,658
+605,60435,Wochenmarkt am Gravensteiner Platz,Market,50.15763297904691,8.699069785812982,"Gravensteiner Platz, Frankfurt am Main",663
+606,60435,Gravensteiner Arkaden,Shopping Mall,50.15764557427412,8.699068629641339,"Gravensteiner-Platz 1-6, 60435 Frankfurt am Main",664
+607,60435,H Alkmenstraße,Tram Station,50.1518352525378,8.699846098944713,"Goldpeppingstr. (Alkmenestr.), Frankfurt am Main",668
+608,60435,H Theobald-Ziegler-Straße,Metro Station,50.1478776612773,8.690007872097055,"Gießener Str. (Theobald-Ziegler-Str.), Frankfurt am Main",724
+609,60435,H Karl-von-Drais-Straße,Bus Stop,50.15111226501999,8.681176732065174,Frankfurt am Main,807
+610,60435,Fit/One,Gym / Fitness Center,50.161364683912694,8.687979582411312,"August-Schanz-Strasse 33-35, 60433 Frankfurt am Main",818
+611,60435,Muay Thai School Frankfurt,Boxing Gym,50.16156678728274,8.687170723035544,Frankfurt am Main,858
+612,60435,Homburger Hof,German Restaurant,50.149629,8.681726,"Engelthalerstr. 13, 60435 Frankfurt am Main",861
+613,60435,Preungesheimer Dreieck (8) (-),Intersection,50.16015754365109,8.701214790344237,"A 661 (B 3), 60435 Frankfurt am Main",958
+614,60435,AS Frankfurt-Eckenheim (7),Intersection,50.159262279834884,8.680277466773987,"A 661 (L 3003), Frankfurt am Main",959
+615,60437,Burger AG,Burger Joint,50.190617430232656,8.6664999717655,"Homburger Landstr. 785, 60437 Frankfurt am Main",655
+616,60437,REWE,Supermarket,50.18979446493008,8.667171287908673,"Homburger Landstr. 734, 60437 Frankfurt am Main",642
+617,60437,Netto Marken-Discount,Supermarket,50.19122232,8.66498032,"Arnoldstraße 11, 60437 Frankfurt am Main",746
+618,60437,TOTAL Tankstelle,Gas Station,50.196331,8.666834,"An Der Bornhohl 56, 60437 Frankfurt am Main",758
+619,60437,media@home TECHNIK-GALERIE,Electronics Store,50.19281289662128,8.664117828011513,"Berner Str. 11-15, 60437 Frankfurt am Main",802
+620,60437,Wiener Feinbäckerei Heberer,Bakery,50.19891495457278,8.670309152191413,"Deuil-La-Barre-Straße 41, Nieder-Eschbach",825
+621,60437,U Nieder-Eschbach,Metro Station,50.19905833058696,8.670555142654711,"Görlitzer Str., Frankfurt am Main",832
+622,60437,Tropical,Ice Cream Shop,50.199284,8.670852,60437 Frankfurt am Main,847
+623,60437,LG Service GmbH,Business Service,50.1933699,8.6616292,"Berner Str. 51, 60437 Frankfurt am Main",985
+624,60438,FITSEVENELEVEN Riedberg,Gym / Fitness Center,50.176272754691446,8.630926440205611,"Altenhöferalle, 60438 Frankfurt am Main",386
+625,60438,dm-drogerie markt,Drugstore,50.177844,8.628413,"Riedbergplatz 2, 60438 Frankfurt am Main",135
+626,60438,Riedbergplatz,Plaza,50.176558922554136,8.629025186308494,"Riedbergplatz, Frankfurt am Main",278
+627,60438,Kätcheslachpark,Park,50.18041855795788,8.635209526904816,Deutschland,604
+628,60438,Isolabella,Italian Restaurant,50.18280815429054,8.625830278455897,"Altenhöferallee 132, 60438 Frankfurt am Main",460
+629,60438,REWE,Supermarket,50.17419446,8.63360533,"Altenhöferallee 1 (Altenhöferallee), 60438 Frankfurt am Main",685
+630,60438,La Piazza,Ice Cream Shop,50.176563194395534,8.628922549734419,"Riedbergplatz 4, Frankfurt am Main",274
+631,60438,Kebabiss,Doner Restaurant,50.178737,8.62808,"Altenhöferallee 29, 60438 Frankfurt am Main",67
+632,60438,Park Avenue,Café,50.176846721556906,8.629088956814224,"Riedbergplatz 3, 60438 Frankfurt am Main",253
+633,60438,Café Wacker,Café,50.17754683906227,8.629041159227505,"Riedbergplatz 2, Frankfurt am Main",190
+634,60438,RiedbergZentrum,Shopping Mall,50.177269152129874,8.628988265991211,"Riedbergplatz 1-5 (Altenhöferallee), 60438 Frankfurt am Main",211
+635,60438,Riedback,Bakery,50.178406435458285,8.628736657726845,"Altenhöfferallee 86, 60438 Frankfurt am Main",120
+636,60438,"Frankfurter Sparkasse, GA Riedberg",ATM,50.17677598649384,8.629777938164787,"Riedbergplatz 1 // RiedbergZentrum (Altenhöferallee), 60438 Frankfurt am Main",289
+637,60438,U Uni Campus Riedberg,Metro Station,50.1754931332464,8.628243453342378,"Riedbergallee, 60438 Frankfurt am Main",371
+638,60438,U Riedberg,Metro Station,50.179329490622,8.634683477390421,"Riedbergallee (Zur Kalbacher Höhe), 60438 Frankfurt am Main",541
+639,60438,Kätcheslachweiher,Lake,50.18205270407747,8.633222558513397,Deutschland,568
+640,60438,Sportarena Riedberg,Athletics & Sports,50.18396565276963,8.622556475387634,Deutschland,665
+641,60438,Niederursel ↔ Riedberg,Trail,50.17083017557708,8.623711667720558,"Kreuzerhohl (über die Rosa-Luxemburg-Allee), 60438 Frankfurt am Main",915
+642,60438,Villa Belvedere,Italian Restaurant,50.181871,8.64022,"Kautenhof 1, 60438 Frankfurt am Main",994
+643,60439,REWE,Supermarket,50.17419446,8.63360533,"Altenhöferallee 1 (Altenhöferallee), 60438 Frankfurt am Main",982
+644,60439,relexa hotel Frankfurt/Main,Hotel,50.16971274587304,8.637988898043103,"Lurgiallee 2, 60439 Frankfurt am Main",435
+645,60439,ALDI SÜD,Supermarket,50.1663933,8.6445202,"Olof-Palme-Straße 7, 60439 Frankfurt am Main",199
+646,60439,Pizzeria Da Cimino,Pizza Place,50.16075937966582,8.647764393009039,"Heddernheimer Landstr. 39, 60439 Frankfurt am Main",868
+647,60439,REWE City,Supermarket,50.16095139784971,8.644686983430802,"Hessestraße 1-3, 60439 Frankfurt am Main",796
+648,60439,Lidl,Supermarket,50.163254,8.638194,"Heddernheimer Landstraße 130, 60439 Heddernheim",657
+649,60439,Lidl,Supermarket,50.1763834,8.6418715,"Zur Kalbacher Höhe 6, 60438 Riedberg",932
+650,60439,Bäckerei Hinnerbäcker,Bakery,50.16855767021076,8.638803218980867,"Lurgiallee 6-8, Frankfurt am Main",341
+651,60439,Ristorante & Pizzeria Il Gondoliere,Italian Restaurant,50.16920147139404,8.638417655645767,"Lurgiallee 6, 60439 Frankfurt am Main",386
+652,60439,H Sandelmühle,Bus Stop,50.165910201689705,8.645145893096924,"An der Sandelmühle, Frankfurt am Main",266
+653,60439,U Sandelmühle,Metro Station,50.16586323058626,8.645087882738926,"Olof-Palme-Str., 60329 Frankfurt am Main",269
+654,60439,Thai Wok,Thai Restaurant,50.16912936157165,8.638617795132742,Deutschland,370
+655,60439,A.T.U Frankfurt am Main - Heddernheim,Automotive Shop,50.162238,8.639412,"Heddernheimer Landstraße 122, 60439 Frankfurt am Main",713
+656,60439,Sandelmühle,Hotel,50.16318237683579,8.650989107477871,"An der Sandelmühle 35, Frankfurt am Main",760
+657,60439,Zurich Versicherung,Insurance Office,50.17524976240763,8.643205374435192,"Olof-Palme-Str. 37, 60439 Frankfurt am Main",799
+658,60439,Tennis Klüh,Tennis Court,50.16429654823351,8.653877433972932,"Im Uhrig, Frankfurt am Main",848
+659,60439,U Heddernheim,Metro Station,50.16132004856999,8.649847571683672,"Nassauer Str., Frankfurt am Main",876
+660,60439,City-Kebap-Haus,Falafel Restaurant,50.16063,8.647555,"Nassauer Strasse 7, 60439 Frankfurt am Main",876
+661,60439,Schaan,Bakery,50.1600746221525,8.647498161124437,"Heddernheimer Landstrasse, Frankfurt am Main",934
+662,60439,U Wiesenau,Metro Station,50.16666,8.629982,"Krautgartenweg, Frankfurt am Main",979
+663,60486,Bockenheimer Weinkontor,Wine Bar,50.11797015070293,8.644186638879637,"Schloßstr. 92, 60486 Frankfurt am Main",163
+664,60486,Senckenbergs,Mediterranean Restaurant,50.117592496574034,8.649163842201233,"Gräfstr. 45, 60486 Frankfurt am Main",224
+665,60486,da Cimino,Pizza Place,50.119496052268346,8.645681618479712,"Adalbertstr. 29, 60486 Frankfurt am Main",261
+666,60486,Mai Vien,Asian Restaurant,50.11823633247026,8.644628146153861,"Schloßstr. 92, 60486 Frankfurt am Main",158
+667,60486,Mangetsu,Japanese Restaurant,50.115902,8.646909,"Varrentrappstraße 57, 60486 Frankfurt am Main",151
+668,60486,T.Style,Japanese Restaurant,50.11926998880042,8.644979996772884,"Adalbertstr. 37-39, 60486 Frankfurt am Main",247
+669,60486,Namaste India,Indian Restaurant,50.118625280999794,8.647527067612003,"Jordanstr. 19, 60486 Frankfurt am Main",192
+670,60486,Brühmarkt,Café,50.12019045879249,8.64962322088915,"Leipziger Str. 1, 60487 Frankfurt am Main",421
+671,60486,Topo Gigio,Italian Restaurant,50.11657432265236,8.64649772644043,"Schloßstraße 117, 60486 Frankfurt am Main",71
+672,60486,Pasta e Panini,Italian Restaurant,50.119524400933095,8.64376939293741,"Adalbertstraße 44-48, 60486 Frankfurt am Main",310
+673,60486,Zum Tannenbaum,Pub,50.11879701930583,8.646328986968587,"Homburgerstr. 9, 60486 Frankfurt am Main",183
+674,60486,Tacohaus,Taco Place,50.11665650391073,8.643817122105,"Hamburger Allee 59, 60486 Frankfurt am Main",171
+675,60486,Senckenberg Naturmuseum,Science Museum,50.11749734139265,8.652469914534567,"Senckenberganlage 25, 60486 Frankfurt am Main",457
+676,60486,Soulmate Coffee & Bar,Café,50.119019,8.650181,"Gräfstraße 74-76, 60486 Frankfurt am Main",357
+677,60486,Orfeo's Erben,Indie Movie Theater,50.116159949841496,8.645023748053443,"Hamburger Allee 45, 60486 Frankfurt am Main",134
+678,60486,Mario & Lino (Bistro Pizzeria),Pizza Place,50.11931352119786,8.645135244039855,"Adalbertstr. 37-39, Frankfurt am Main",249
+679,60486,Pizzaria Elba,Pizza Place,50.11713,8.645727,"Schlossstr. 113, 60489 Frankfurt am Main",26
+680,60486,Radio-X,Radio Station,50.12199207615486,8.64361546195374,"Kurfürstenstraße 18 HH, 60486 Frankfurt am Main",566
+681,60486,Cafe Crumble,Café,50.119698067876016,8.648733490494124,"Kiesstr. 41 (Adalbertstr.), 60486 Frankfurt am Main",339
+682,60486,Frankfurt Marriott Hotel,Hotel,50.1145889,8.6503145,"Hamburger Allee 2, HE, 60486 Frankfurt am Main",415
+683,60486,Palu Grill Haus,Turkish Restaurant,50.12165439752821,8.64780415012145,"Leipziger Straße 32, 60487 Frankfurt am Main",515
+684,60486,Prime Time Fitness,Gym / Fitness Center,50.12157014910742,8.649630948831872,"Clemensstr. 10, 60487 Frankfurt am Main",552
+685,60486,Ponte,Portuguese Restaurant,50.122648305016725,8.646720030396148,"Am Weingarten 5, 60487 Frankfurt am Main",612
+686,60486,Ristaurante La Contessa,Italian Restaurant,50.11597998028546,8.64654896984413,"Schloßstr. 126, 60486 Frankfurt am Main",135
+687,60486,BulliBurrito,Mexican Restaurant,50.11481,8.64621,60487 Frankfurt am Main,261
+688,60486,Paolo,Italian Restaurant,50.11808892400767,8.644962344394225,"Schlossstr.85, 60486 Frankfurt am Main",130
+689,60486,Bistro Hong Kong,Café,50.12136912768504,8.648243821240532,"Leipziger Str. 26, 60487 Frankfurt am Main",493
+690,60486,Kish Restaurant,Persian Restaurant,50.12112611688485,8.64915059829413,"Leipziger Str. 16a, 60487 Frankfurt am Main",492
+691,60486,Kochhaus,Gourmet Shop,50.1223597391076,8.646052479743958,"Leipziger Str. 43, 60487 Frankfurt am Main",578
+692,60486,Cafė Casablanca,Café,50.119874383422875,8.645098802896227,"Adalbertstr. 36a, Frankfurt am Main",310
+693,60487,Brühmarkt,Café,50.12019045879249,8.64962322088915,"Leipziger Str. 1, 60487 Frankfurt am Main",240
+694,60487,Prime Time Fitness,Gym / Fitness Center,50.12157014910742,8.649630948831872,"Clemensstr. 10, 60487 Frankfurt am Main",154
+695,60487,Lafleur,French Restaurant,50.121444850584716,8.655831813812254,"Palmengartenstr. 11 (Bockenheimer Landstraße), 60325 Frankfurt am Main",295
+696,60487,Palmenhaus,Botanical Garden,50.121913,8.65665,Siesmayerstr.,350
+697,60487,Ponte,Portuguese Restaurant,50.122648305016725,8.646720030396148,"Am Weingarten 5, 60487 Frankfurt am Main",368
+698,60487,Palu Grill Haus,Turkish Restaurant,50.12165439752821,8.64780415012145,"Leipziger Straße 32, 60487 Frankfurt am Main",281
+699,60487,da Cimino,Pizza Place,50.119496052268346,8.645681618479712,"Adalbertstr. 29, 60486 Frankfurt am Main",506
+700,60487,Kish Restaurant,Persian Restaurant,50.12112611688485,8.64915059829413,"Leipziger Str. 16a, 60487 Frankfurt am Main",202
+701,60487,Bistro Hong Kong,Café,50.12136912768504,8.648243821240532,"Leipziger Str. 26, 60487 Frankfurt am Main",255
+702,60487,Senckenbergs,Mediterranean Restaurant,50.117592496574034,8.649163842201233,"Gräfstr. 45, 60486 Frankfurt am Main",510
+703,60487,REWE,Supermarket,50.12108228250698,8.651167168897473,"Gräfstraße 1, 60487 Frankfurt am Main",96
+704,60487,Senckenberg Naturmuseum,Science Museum,50.11749734139265,8.652469914534567,"Senckenberganlage 25, 60486 Frankfurt am Main",489
+705,60487,Soulmate Coffee & Bar,Café,50.119019,8.650181,"Gräfstraße 74-76, 60486 Frankfurt am Main",336
+706,60487,Metzgerei Waibel,Butcher,50.12107572438474,8.648742617783087,"Leipziger Str. 15, 60486 Frankfurt am Main",231
+707,60487,Kochhaus,Gourmet Shop,50.1223597391076,8.646052479743958,"Leipziger Str. 43, 60487 Frankfurt am Main",409
+708,60487,Ban Thai,Thai Restaurant,50.1214403685529,8.648445972645428,"Leipziger Str. 26, 60487 Frankfurt am Main",239
+709,60487,T.Style,Japanese Restaurant,50.11926998880042,8.644979996772884,"Adalbertstr. 37-39, 60486 Frankfurt am Main",562
+710,60487,Bockenheimer Weinkontor,Wine Bar,50.11797015070293,8.644186638879637,"Schloßstr. 92, 60486 Frankfurt am Main",692
+711,60487,Cafe Crumble,Café,50.119698067876016,8.648733490494124,"Kiesstr. 41 (Adalbertstr.), 60486 Frankfurt am Main",323
+712,60487,Basic,Supermarket,50.12066058765939,8.64909717884717,"Leipziger Str. 11, 60487 Frankfurt am Main",231
+713,60487,Mai Vien,Asian Restaurant,50.11823633247026,8.644628146153861,"Schloßstr. 92, 60486 Frankfurt am Main",649
+714,60487,Radio-X,Radio Station,50.12199207615486,8.64361546195374,"Kurfürstenstraße 18 HH, 60486 Frankfurt am Main",579
+715,60487,Namaste India,Indian Restaurant,50.118625280999794,8.647527067612003,"Jordanstr. 19, 60486 Frankfurt am Main",469
+716,60487,Hake Cafe Im Hinterhof,Arts & Crafts Store,50.121690750071146,8.646721913063242,"Leipzigerstrasse 35 (Hinterhaus), 60487 Frankfurt am Main",358
+717,60487,dm-drogerie markt,Drugstore,50.1214766,8.6481749,"Leipziger Straße 28, 60487 Frankfurt am Main",258
+718,60487,Palmengarten,Botanical Garden,50.127943,8.647007,"Zeppelinallee 93 (Zeppelinallee), 60487 Frankfurt am Main",755
+719,60487,Botanischer Garten,Botanical Garden,50.12647870939097,8.657700152263338,"Siesmayerstraße 72, 60323 Frankfurt am Main",666
+720,60487,Alnatura,Organic Grocery,50.121082706485836,8.647708528425312,"Landgrafenstr. 11 (Leipziger Str.), 60486 Frankfurt am Main",300
+721,60487,Tropicarium,Botanical Garden,50.123976228717716,8.65724802017212,"Siesmayerstr., Frankfurt am Main",457
+722,60487,Studierendenhaus / Café KoZ,Café,50.11866621988471,8.652111636463474,"Mertonstr. 28 (Jügelstr.), 60325 Frankfurt am Main",357
+723,60488,Restaurant Pizzeria Belanti,Italian Restaurant,50.14623951709236,8.610938843115445,"Heerstraße 169, 60488 Frankfurt am Main",592
+724,60488,REWE Center,Supermarket,50.146525255850136,8.610250821346654,"Eugen-Hartmann-Str 7 (nähe Heerstr.), 60488 Frankfurt am Main",638
+725,60488,Okame,Japanese Restaurant,50.13693080792471,8.625516767321203,"Im Vogelsgesang 1, 60488 Frankfurt am Main",982
+726,60488,Aral,Gas Station,50.141344,8.609723,"Ludwig-Landmann-Str. 90, 60488 Frankfurt am Main",264
+727,60488,Schuch's Restaurant,German Restaurant,50.14786813595051,8.621107297027732,"Alt Praunheim, 60488 Frankfurt am Main",926
+728,60488,REWE,Supermarket,50.148875920300156,8.615460080177552,"Heerstr. 54 (Oberhöchstädter Weg), 60488 Frankfurt am Main",870
+729,60488,H Heerstraße,Bus Stop,50.143247030809725,8.608354537135181,Deutschland,429
+730,60488,Windsurfing Rhein-Main,Miscellaneous Shop,50.14724894413046,8.612392242487795,"Heerstr. 76, 60488 Frankfurt am Main",681
+731,60488,U Hausen,Metro Station,50.137726347280925,8.624490306361992,"Praunheimer Str., Frankfurt am Main",877
+732,60488,nails and more Elke Hofmann,Health & Beauty Service,50.13803,8.62602,"Im Vogelgesang 7, 60488 Frankfurt am Main",963
+733,60488,BUGA,Garden,50.1384496896695,8.626811770866514,"Praunheimer Ldstr., 60488 Frankfurt am Main",1001
+734,60489,Savory,Vegetarian / Vegan Restaurant,50.12522963388688,8.612292848513638,"Burgfriedenstr. 2, Frankfurt am Main",88
+735,60489,Can Kebaphaus,Turkish Restaurant,50.125160681820674,8.611051690489987,"Radilostr. 7, Frankfurt am Main",6
+736,60489,Phad Thai,Thai Restaurant,50.124157901558796,8.608228648884335,"Radilostrasse 34, 60489 Frankfurt am Main",228
+737,60489,Stadion am Brentanobad,Soccer Field,50.124784990948534,8.620386804147161,"Roedelheimer Parkweg 39, 60489 Frankfurt am Main",666
+738,60489,Brentanopark,Park,50.12419634222905,8.615899085998535,"Rödelheimer Parkweg, 60489 Frankfurt am Main",359
+739,60489,Eis Cafė Cortina,Ice Cream Shop,50.12400005862448,8.610207411472032,Frankfurt am Main,137
+740,60489,Venos Lebensmittel,Gourmet Shop,50.12008230089066,8.622565613959774,"Rödelheimer Landstr. 75, 60487 Frankfurt am Main",993
+741,60489,Brentanobad,Pool,50.12626022752902,8.619058873622645,"Rödelheimer Parkweg 1, 60489 Frankfurt am Main",584
+742,60489,Freibad Hausen,Pool,50.130561606862265,8.622218790364121,"Ludwig-Landmann-Str. 341, 60488 Frankfurt am Main",1001
+743,60489,REWE,Supermarket,50.1198143,8.60751525,"Breitlacherstr. 1, 60489 Frankfurt am Main",641
+744,60489,Lidl,Supermarket,50.127815485994,8.606491500234824,"Lorscher Str. 41, 60489 Rödelheim",444
+745,60489,Goldenen Löwen,Chinese Restaurant,50.12483998344264,8.613050141366285,60489 Frankfurt am Main,144
+746,60489,Deutsche Bank,Bank,50.12410858108012,8.610199624099563,"Radilostr. 33, 60489 Frankfurt am Main",127
+747,60489,Rusticale,Italian Restaurant,50.12398307027175,8.610235323165869,"Thudichumstr. 1a (Lorscherstr. 2), 60489 Frankfurt am Main",138
+748,60489,REWE,Supermarket,50.12525701,8.61157414,"Radilostr. 1, 60489 Frankfurt am Main",39
+749,60489,ALDI SÜD,Supermarket,50.122187993716075,8.60002713669087,"Westerbachstraße 49 (In der Au), 60489 Frankfurt-Rödelheim",852
+750,60489,Wiener Feinbäckerei Heberer,Bakery,50.124010035421,8.610191027343811,60489 Frankfurt am Main,137
+751,60489,Restaurant Tandoori,Indian Restaurant,50.12705281184446,8.61194300653013,60489 Frankfurt am Main,225
+752,60489,Gleis 1 Frankfurt-Rödelheim,Platform,50.124738808007606,8.606950820377248,Frankfurt am Main,296
+753,60489,Lavin Restaurant,Doner Restaurant,50.12525399178617,8.605668063693397,Frankfurt am Main,385
+754,60489,Sinn Spezialuhren,Jewelry Store,50.12228407229905,8.618420362472534,"Im Füldchen 5-7, 60489 Frankfurt am Main",611
+755,60489,Meloonia Frozen Yoghurt,Frozen Yogurt Shop,50.12156115354749,8.617625193706536,"Europa-Allee 6, 60327 Frankfurt am Main",612
+756,60489,Lighthouse Dining,Italian Restaurant,50.126987270677745,8.62339209722038,"Königsberger Str. 29, 60487 Frankfurt am Main",904
+757,60489,H Hausener Weg,Bus Stop,50.131637,8.619607,Frankfurt am Main,948
+758,60528,Nordwestkurve,Soccer Stadium,50.068626856595465,8.644394874572754,"Mörfelder Landstr. 362, Frankfurt am Main",151
+759,60528,Deutsche Bank Park,Soccer Stadium,50.068650959387675,8.64543557167053,"Mörfelder Landstr. 362, 60528 Frankfurt am Main",138
+760,60528,Gästeblock,Soccer Stadium,50.06798081116886,8.646025657653809,"Mörfelder Landstr. 362, 60528 Frankfurt am Main",79
+761,60528,Eintracht Frankfurt Museum,Museum,50.06903382699714,8.646682314838758,"Mörfelder Landstr. 362, 60528 Frankfurt am Main",204
+762,60528,Nike Store Frankfurt,Sporting Goods Shop,50.066791819883996,8.648029252562992,"Otto-Fleck-Schneise 7, 60528 Frankfurt am Main",203
+763,60528,FanTreff Waldstadion,Gastropub,50.07409119190947,8.653007607966757,"Mörfelder Landstr., Frankfurt am Main",923
+764,60528,Stadionbad,Pool,50.07116340330879,8.651069894764799,"Mörfelder Landstr., Frankfurt am Main",584
+765,60528,Lindner Hotel & Sports Academy,Hotel,50.06795609679369,8.642025207563952,"Otto-Fleck-Schneise 8, 60528 Frankfurt am Main",245
+766,60528,Air Lounge,Cafeteria,50.06655320900225,8.647712402736502,"Otto-Fleck-Schneise 7, 60528 Frankfurt am Main",194
+767,60528,Eintracht Frankfurt,Sports Club,50.06836928427532,8.64444672016756,"Mörfelder Landstr. 362, 60528 Frankfurt am Main",124
+768,60528,Gegentribüne,Soccer Stadium,50.06807593232763,8.644909858703613,"Mörfelder Landstr. 362, 60528 Frankfurt am Main",80
+769,60528,Wintersporthalle,Gym / Fitness Center,50.07016553480237,8.64234579718585,Frankfurt am Main,374
+770,60528,Worscht Wach,BBQ Joint,50.071167267182666,8.642830596532564,60528 Frankfurt am Main,455
+771,60528,Bahnhof Frankfurt am Main Stadion,Train Station,50.06818950274607,8.633281683814701,"Flughafenstr. 104, 60528 Frankfurt am Main",866
+772,60528,Waldspielpark Carl-von-Weinberg,Park,50.07526637364072,8.645818375807721,"Golfstr. (Flughafenstr.), 60528 Frankfurt am Main",875
+773,60528,AS Frankfurt Süd (51),Intersection,50.0586541479627,8.648278713226318,"A 3 (B 43 / B 44), 60528 Frankfurt am Main",997
+774,60529,Kemtong,Thai Restaurant,50.08547170539225,8.582116287380476,"Alt-Schwanheim 23, 60529 Frankfurt am Main",368
+775,60529,Zum Zehnthof,German Restaurant,50.085958062211475,8.581500996564516,"Alt Schwanheim 12, 60529 Frankfurt am Main",437
+776,60529,Eissalon Riviera,Ice Cream Shop,50.08397778495852,8.581273254986717,"Alt Schwanheim 40, 60529 Frankfurt am Main",282
+777,60529,Waldspielpark Schwanheim,Playground,50.07954762385942,8.577200174331663,"Schwanheimer Bahnstr., 60529 Schwanheim",622
+778,60529,dm-drogerie markt,Drugstore,50.08410267356403,8.581493317791,"Am Kirchholz 12, 60529 Frankfurt am Main",278
+779,60529,Frankfurter Hof „Seppche“,German Restaurant,50.08620836091414,8.581453527327568,"Alt-Schwanheim 8, 60529 Frankfurt am Main",463
+780,60529,Blaue adria,Restaurant,50.082762898078315,8.580103054817636,60529 Frankfurt am Main,318
+781,60529,Verkehrsmuseum Frankfurt am Main,Museum,50.082352941842714,8.581655534740246,"Rheinlandstr. 133, 60529 Frankfurt am Main",208
+782,60529,REWE,Supermarket,50.087418812437484,8.581658411045055,"Martinskirchstraße 70, 60529 Frankfurt am Main",579
+783,60529,H Rheinlandstraße,Tram Station,50.082500559766345,8.5813965221797,"Rheinlandstr. (Schwanheimer Bahnstr.), Frankfurt am Main",225
+784,60529,Schwanheimer Wald,Park,50.079863521715936,8.577469041014455,"Bahnstrasse (Rheinlandstrasse), 60529 Frankfurt am Main",587
+785,60529,ALDI SÜD,Supermarket,50.087913053494795,8.574858782994852,"Nürburgstraße 5, 60529 Frankfurt am Main",913
+786,60549,Lufthansa Panorama Lounge A26,Airport Lounge,50.045022,8.56673,"Terminal 1, near Gate A26 (FRA Airport), 60547 Frankfurt am Main",566
+787,60549,Start- und Landebahn Süd,Airport Service,50.03630444871857,8.570945262908936,"Runway 07R/25L (FRA Airport), 60547 Frankfurt am Main",711
+788,60549,Lufthansa Business Lounge A26,Airport Lounge,50.04493032126673,8.566765716531355,"Terminal 1, one level up at gate A26 (FRA Airport), 60547 Frankfurt am Main",558
+789,60549,Lufthansa Senator Lounge A,Airport Lounge,50.04841067944939,8.567200899124146,"Terminal 1 (FRA Airport), 60549 Frankfurt am Main",931
+790,60549,Lufthansa Senator Lounge Z,Airport Lounge,50.048576025152855,8.566997051239014,"Terminal 1, near Gate Z50 (FRA Airport), 60549 Frankfurt am Main",944
+791,60549,Lufthansa First Class Lounge B,Airport Lounge,50.04724635399255,8.572216629981995,"Terminal 1, near Gate B22 (FRA Airport), 60547 Frankfurt am Main",990
+792,60549,Lufthansa Cabin Found Property,Airport Service,50.0442369057162,8.563522334931134,"Terminal 1 (FRA Airport), 60547 Frankfurt am Main",424
+793,60549,Lufthansa Firstclass/HON-Circle Limo,Transportation Service,50.04464936414488,8.562407759696637,"FRA Airport, 60547 Frankfurt am Main",474
+794,60549,Leisure Zone,Airport Lounge,50.04814199146634,8.564658164978027,"Terminal 1 (FRA Airport), 60547 Frankfurt am Main",864
+795,60549,Lufthansa First Class Lounge A,Airport Lounge,50.04812821255486,8.568198680877684,"Terminal 1, near Gate A13 (FRA Airport), 60549 Frankfurt am Main",925
+796,60549,Natural Food & Drinks,Juice Bar,50.04802061911678,8.565823606651414,"Flughafen Frankfurt am Main, 60549 Frankfurt am Main",864
+797,60549,Lufthansa Business Lounge A13,Airport Lounge,50.04811229306639,8.56806623477691,"Terminal 1, near Gate A13 (FRA Airport), 60549 Frankfurt am Main",920
+798,60549,Lufthansa Business Lounge Z,Airport Lounge,50.0485691357599,8.567426204681396,"Terminal 1, near Gate Z50 (FRA Airport), 60547 Frankfurt am Main",952
+799,60549,Hermann's,BBQ Joint,50.04569824777832,8.566772191021064,"Flughafen Frankfurt, FRA Terminal 1, Gate A24 (FRA Airport), 60549 Airport Frankfurt",636
+800,60549,Lufthansa Business Lounge B West,Airport Lounge,50.04666175258209,8.571670875519903,"Terminal 1, near Gates B24-B28 (FRA Airport), 60549 Frankfurt am Main",915
+801,60549,Deutsch,German Restaurant,50.04818332817702,8.568499088287354,"Terminal 1 (FRA Airport), 60547 Frankfurt am Main",939
+802,60549,Caviar House & Prunier,Gourmet Shop,50.04792997855591,8.569287836702806,"Terminal 1 (FRA Airport), 60549 Frankfurt am Main",937
+803,60549,Goodman & Filippo,Bistro,50.046736,8.567479,"Terminal 1 (FRA Airport), Frankfurt am Main",762
+804,60549,The Bar,Gastropub,50.0482797803635,8.568520545959473,"Terminal 1 (FRA Airport), 60547 Frankfurt am Main",949
+805,60549,Apron,Airport Service,50.04571801888225,8.573493744570529,"FRA Airport, 60547 Frankfurt am Main",935
+806,60549,Hausmann's,German Restaurant,50.04818125534233,8.568723289558314,"Terminal 1 (FRA Airport), 60549 Frankfurt am Main",945
+807,60549,Start- und Landebahn Center,Airport Service,50.04016333978426,8.566417694091797,"Runway 07C/25C (FRA Airport), 60547 Frankfurt am Main",222
+808,60549,Mayer's,Diner,50.048332,8.568167,"Terminal 1 (FRA Airport), 60547 Frankfurt am Main",945
+809,60549,Mondo Bianco,Café,50.047725493213754,8.562367200688366,"Terminal 1 (FRA Airport), 60547 Frankfurt am Main",815
+810,60549,Nykke & Kokki,Snack Place,50.04606732777502,8.56691815873172,"Terminal 1 (FRA Airport), Frankfurt am Main",678
+811,60549,McDonald's,Fast Food Restaurant,50.04731706744055,8.562118039421176,"Terminal 1 (FRA Airport), Frankfurt am Main",772
+812,60549,Heberer's Traditional Bakery,Bakery,50.04805931793817,8.569056987762451,"Terminal 1, near Gate A13 (FRA Airport), 60547 Frankfurt am Main",943
+813,60549,Meyer Frankfurt,Sandwich Place,50.04809843638143,8.569254486366754,"Terminal 1 (FRA Airport), 60547 Frankfurt am Main",953
+814,60549,Heinemann Duty Free Shop,Duty-free Shop,50.04807814857707,8.56922291680321,"Terminal 1 (FRA Airport), 60549 Frankfurt am Main",950
+815,60549,Coffee Kitchen,Café,50.04660355143907,8.571800887584686,"Terminal 1, near Gate B28 (FRA Airport), 60547 Frankfurt am Main",916
+816,60594,Harmonie,Indie Movie Theater,50.10333434358594,8.690995323216915,"Dreieichstr. 54, 60594 Frankfurt am Main",102
+817,60594,Pizzeria Dal Bianco,Pizza Place,50.103684553005245,8.69022732791951,"Darmstädter Landstr. 3, 60594 Frankfurt am Main",161
+818,60594,Amélies Wohnzimmer,Café,50.10371183963149,8.689171842490836,"Affentorplatz 20 (Schifferstr.), 60594 Frankfurt am Main",235
+819,60594,Atschel,Apple Wine Pub,50.104749352195846,8.688958451492997,"Wallstr. 7, 60594 Frankfurt am Main",292
+820,60594,Frau Rauscher,Apple Wine Pub,50.10533485338751,8.691548765958899,"Klappergasse 8, 60594 Frankfurt am Main",229
+821,60594,Lokalbahnhof,German Restaurant,50.103075418174406,8.690308821751387,"Darmstädter Landstr. 14 (Textorstr.), 60594 Frankfurt am Main",154
+822,60594,Muku,Ramen Restaurant,50.105927009163715,8.692276240691584,"Dreieichstraße 7a, 60594 Frankfurt am Main",287
+823,60594,Fichtekränzi,Apple Wine Pub,50.104691819219454,8.688989910702192,"Wallstr. 5, 60594 Frankfurt am Main",287
+824,60594,GIOIA – Freude am Essen,Italian Restaurant,50.104935,8.689958,"Paradiesgasse 67 (Neuer Wall/Affentorplatz, Sachsenhausen), 60594 Frankfurt am Main",249
+825,60594,Ebbelwoi Unser,Gastropub,50.104594351194464,8.688485950197371,"Abstgässchen 8, 60594 Frankfurt am Main",313
+826,60594,Pi-Nong Authentische Thai-Küche,Thai Restaurant,50.10395427187809,8.690050477983977,"Affentorplatz 26, 60594 Frankfurt am Main",182
+827,60594,Kanonesteppel,German Restaurant,50.10259712564316,8.688446740078286,"Textorstr. 20, 60594 Frankfurt am Main",296
+828,60594,Libertine Lindenberg,Bed & Breakfast,50.106212378273774,8.6908004593717,Frankfurt am Main,339
+829,60594,Harry's New York Bar,Bar,50.10616000898704,8.69543972913305,"Walther-von-Cronberg-Platz 1, 60594 Frankfurt am Main",379
+830,60594,Apfelwein DAX,Apple Wine Pub,50.10438954482606,8.692552694714834,"Willemerstr. 11, 60594 Frankfurt am Main",116
+831,60594,Udon Thai Imbiss,Thai Restaurant,50.100996447757325,8.69134958772837,"Darmstädter Landstraße 35, 60598 Frankfurt am Main",272
+832,60594,Hummus Küch',Falafel Restaurant,50.101932,8.687351,"Textorstr. 31, 60594 Frankfurt am Main",395
+833,60594,Altin Sofrasi,Falafel Restaurant,50.10265054647257,8.689647051747466,"Textorstr. 10, 60594 Frankfurt am Main",213
+834,60594,Pizza Petro,Pizza Place,50.10506982018441,8.689602389643683,"Paradiesgasse 38, 60594 Frankfurt am Main",278
+835,60594,Fame - The Sandwich Shop,Sandwich Place,50.10497000946826,8.688840228245759,"Wallstr. 10, 60594 Frankfurt am Main",313
+836,60594,Buenos Aires,Argentinian Restaurant,50.104999649796866,8.692033951168876,"Dreieichstrasse 35 (Klappergasse), 60594 Frankfurt am Main",185
+837,60594,FITSEVENELEVEN Sachsenhausen,Gym / Fitness Center,50.10288158494578,8.691168702129298,"Dreieichstr. 59, 60594 Frankfurt am Main",103
+838,60594,Jasper's,Bar,50.10402078248186,8.689027602990683,"Schifferstrasse 8, 60594 Frankfurt am Main",253
+839,60594,Café Bar Brücke,Café,50.10587021312112,8.687543323182863,"Brückenstr. 19, 60594 Frankfurt am Main",447
+840,60594,Proletariat,Gastropub,50.10437297420231,8.691979764105433,"Dreieichstr. 45 (Willemerstr.), 60594 Frankfurt am Main",118
+841,60594,Bizzi Ice Organic Gelato,Ice Cream Shop,50.10537142228938,8.687426941474637,"Wallstr. 26 (Brückenstr.), 60594 Frankfurt am Main",421
+842,60594,Cafe Glücklich,Bistro,50.102159,8.688437,Frankfurt am Main,314
+843,60594,Apfelweinwirtschaft Dauth-Schneider,Apple Wine Pub,50.10489897464219,8.690194580592518,"Neuer Wall 7, 60594 Frankfurt am Main",234
+844,60594,Trattoria i Siciliani,Trattoria/Osteria,50.104896197953806,8.684427518644487,"Walter-Kolb-Str. 17, 60594 Frankfurt am Main",596
+845,60594,Eissalon Firenze,Ice Cream Shop,50.10546928214561,8.696628596066692,"Walther-von-Cronberg-Platz 13, 60594 Frankfurt am Main",381
+846,60596,Villa Kennedy,Hotel,50.09736040302291,8.669209385229689,"Kennedyallee 70 (Stresemannallee), 60596 Frankfurt am Main",133
+847,60596,Restaurant Casa Nova,Italian Restaurant,50.09402161707747,8.671644877640944,"Stresemannallee, 59, Frankfurt am Main",375
+848,60596,JFK Bar,Hotel Bar,50.09730698131774,8.669232136647146,"Kennedyallee 70 (Stresemannallee), 60596 Frankfurt am Main",132
+849,60596,Parthenon Greek Restaurant,Greek Restaurant,50.10103682814363,8.674486005718778,"Stresemannallee (Gartenstr.), Frankfurt am Main",474
+850,60596,Liebieghaus Cafe,Café,50.10183336087025,8.671730358023364,Frankfurt am Main,498
+851,60596,Liebieghaus,Art Museum,50.101799177203205,8.671614755046937,"Schaumainkai 71, 60596 Frankfurt am Main",494
+852,60596,Städel Museum,Art Museum,50.10337094150389,8.673733953846599,"Schaumainkai 63, 60596 Frankfurt am Main",693
+853,60596,Dorade am Main,Seafood Restaurant,50.09720882935048,8.66412272241204,"Dorade am Main Carl-von-Noorden Platz 5, 60596 Frankfurt am Main",497
+854,60596,oheim,Café,50.10032188683107,8.680100440979004,"Oppenheimer Landstr. 48 (Schwanthalerstr.), 60596 Frankfurt am Main",722
+855,60596,Spa,Spa,50.097137877911386,8.669781938373296,"Kennedyallee 70 (Villa Kennedy), 60596 Frankfurt am Main",96
+856,60596,Holbein's Café-Restaurant,French Restaurant,50.10292335197727,8.673752118910233,"Holbeinstr. 1, 60596 Frankfurt am Main",646
+857,60596,Rudergesellschaft Germania 1869,Athletics & Sports,50.10277153318719,8.672758992470607,"Schaumainkai 65, 60596 Frankfurt am Main",612
+858,60596,Paris Bar,Bar,50.10122685624644,8.680658340454102,"Oppenheimer Landstr. 27, 60596 Frankfurt am Main",807
+859,60596,Museumsufer,Park,50.10432702110405,8.674328327178955,"Schaumainkai, 60594 Frankfurt am Main",807
+860,60596,Hunky Dory,Cocktail Bar,50.103891712844565,8.665367323347024,"Baseler Straße 10, 60329 Frankfurt am Main",832
+861,60596,Schweizer Platz,Plaza,50.10198729261282,8.680529594421387,"Schweizer Platz, Frankfurt am Main",847
+862,60596,HUCKS Lieblingsplatz,Bakery,50.103303426064784,8.679420700798893,"Schweizer Straße 30, 60594 Frankfurt am Main",888
+863,60596,Lua Cuisine,Vietnamese Restaurant,50.10032188683107,8.682171106338501,"Schweizer Strasse 75, 60594 Frankfurt am Main",857
+864,60596,Maincafé,Beer Garden,50.10502963829639,8.675734412169126,"Schaumainkai 50, 60596 Frankfurt am Main",914
+865,60596,a tavola!,Italian Restaurant,50.10162743329607,8.681500025175785,"Diesterwegstr. 4, 60594 Frankfurt am Main",881
+866,60596,Zum Gemalten Haus,German Restaurant,50.1008313659805,8.682156915733083,"Schweizer Str. 67, 60594 Frankfurt am Main",879
+867,60596,L'Osteria,Trattoria/Osteria,50.101269729761626,8.66363704057337,"Speicherstraße 1, 60327 Frankfurt am Main",686
+868,60596,Ristorante Carmelo Greco,Italian Restaurant,50.09459915891765,8.682584104201608,"Ziegelhüttenweg 1-3, 60598 Frankfurt am Main",877
+869,60596,ClubLounge@InterContinental,Lounge,50.104266748597716,8.668980816362113,Frankfurt am Main,781
+870,60596,Fujiwara,Sushi Restaurant,50.10296169846247,8.678557558844716,"Cranachstr. 1 (Gartenstr.), 60586 Frankfurt am Main",819
+871,60596,Mr. Lee,Korean Restaurant,50.102041725035974,8.66038392899925,"Gutleutstr. 153, 60327 Frankfurt am Main",923
+872,60596,La Maison du Pain,Café,50.10101189849076,8.681504790015142,"Schweizer Str. 63, 60594 Frankfurt am Main",847
+873,60596,Roomers,Hotel,50.104598835092546,8.666686713695526,"Gutleutstr. 85, 60329 Frankfurt am Main",863
+874,60596,Untermainkai,Park,50.105526707156315,8.6726975440979,"Untermainkai, 60329 Frankfurt am Main",914
+875,60596,Atlantik Fisch,Seafood Restaurant,50.10249368519658,8.6614746624474,60327 Frankfurt am Main,891
+876,60598,Thai & Turf,Asian Restaurant,50.089072,8.67092,"Mörfelder Landstr. 235 (Stresemannallee), 60598 Frankfurt am Main",537
+877,60598,Zur Buchscheer,Gastropub,50.084615,8.672058,"Schwarzsteinkautweg 17, 60598 Frankfurt am Main",751
+878,60598,Restaurant Casa Nova,Italian Restaurant,50.09402161707747,8.671644877640944,"Stresemannallee, 59, Frankfurt am Main",848
+879,60598,Landwehrstübchen,German Restaurant,50.085186367045004,8.674619973733062,"Sachenhäuser Landwehrweg 371, 60598 Frankfurt am Main",879
+880,60598,Dorade am Main,Seafood Restaurant,50.09720882935048,8.66412272241204,"Dorade am Main Carl-von-Noorden Platz 5, 60596 Frankfurt am Main",970
+881,60598,Döner & Pizza Land,Doner Restaurant,50.08993228942033,8.672080082216139,60598 Frankfurt am Main,636
+882,60598,Frankfurt Art Bar,Jazz Club,50.082356718732115,8.673000264608003,"Ziegelhüttenweg 221, 60598 Frankfurt am Main",965
+883,60598,Picasso,Italian Restaurant,50.095988077790274,8.663515863371854,Frankfurt am Main,833
+884,60598,REWE,Supermarket,50.08887447326563,8.671162440516355,"Stresemannallee 78, 60598 Frankfurt am Main",552
+885,60598,Galopprennbahn,Racetrack,50.08479366533065,8.653922080993652,"Schwarzwaldstr. 125, 60528 Frankfurt am Main",795
+886,60598,REWE City,Supermarket,50.09556310858174,8.671508309233559,"Oskar-Sommer-Str. 15-17, 60596 Frankfurt am Main",974
+887,60598,H Universitätsklinikum,Tram Station,50.09620108365242,8.660208141920732,"Theodor-Stern-Kai, Frankfurt am Main",888
+888,60598,H Stresemannallee / Mörfelder Landstraße,Tram Station,50.08935883441917,8.671617242050031,"Stresemannallee (Mörfelder Landstr.), Frankfurt am Main",591
+889,60598,H Louisa Bahnhof,Tram Station,50.084174084032675,8.670897781848907,"Schwarzsteinkrautweg 1, Frankfurt am Main",717
+890,60598,S Louisa,Light Rail Station,50.08326118796888,8.670413128478266,"Schwarzsteinkautweg 1, 60598 Frankfurt am Main",766
+891,60598,Golfanlage Rennbahn Frankfurt Niederrad,Golf Course,50.082300871270554,8.653956071803064,Frankfurt am Main,967
+892,60598,Weinberg Golfakademie Frankfurt,Golf Course,50.08228346827796,8.653790545473457,"Schwarzwaldstraße 125, 60528 Frankfurt am Main",976
+893,60599,Eiscafė La Dolce Vita,Ice Cream Shop,50.10004419398296,8.724205572131378,"Offenbacher Landstraße (Buchrainstraße), 60599 Frankfurt am Main",494
+894,60599,Gerbermühle,Hotel,50.106131543376996,8.721188685754228,"Gerbermühlstr. 105, 60594 Frankfurt am Main",851
+895,60599,Schleuse Offenbach,Canal Lock,50.10752696288203,8.726700512752638,"Strahlenbergerstr. 151, 63067 Offenbach am Main",726
+896,60599,New Century Hotel,Hotel,50.108340026832124,8.73129872386131,63067 Offenbach am Main,758
+897,60599,Zum Hirsch,German Restaurant,50.10016733703079,8.720237528206482,60599 Frankfurt am Main,764
+898,60599,Grüne Soße und mehr,German Restaurant,50.100423,8.724296,"Offenbacher Landstr. 357, 60599 Frankfurt am Main",475
+899,60599,Livas,BBQ Joint,50.10755922430043,8.73509003174572,63065 Offenbach am Main,739
+900,60599,Best Western Macrander Hotel Frankfurt / Kaiserlei,Hotel,50.10681624416265,8.741344346199185,"Strahlenberger Str. 12, 63067 Offenbach am Main",959
+901,60599,Delta Hotels by Marriott Frankfurt Offenbach,Hotel,50.108077235775795,8.731309344142725,"Kaiserleistrasse 45, 63067 Offenbach am Main",729
+902,60599,Nextwash Waschsalon,Laundry Service,50.10063425998692,8.726562280328134,"Offenbacher Landstr. 377, 60599 Frankfurt am Main",313
+903,60599,Kelterei Wagner,Liquor Store,50.100378269064066,8.725998316239664,Frankfurt am Main,361
+904,60599,Alt Oberrad,Greek Restaurant,50.09801999921262,8.731450190302807,"Wiener Str. 59, 60599 Offenbach am Main",394
+905,60599,Buchrainplatz,Plaza,50.10039882815188,8.724115435908418,"Buchrainstr. 1 (Offenbacher Landstrasse), 60599 Frankfurt am Main",488
+906,60599,H Buchrainplatz,Tram Station,50.10077728466231,8.723583362788965,"Offenbacher Landstr. (Buchrainpl.), Frankfurt am Main",516
+907,60599,Cat Thy Bistro,Asian Restaurant,50.107024759348086,8.73248712693718,"Strahlenbergerstraße 123, 63067 Offenbach am Main",623
+908,60599,medipax,Furniture / Home Store,50.10717260929446,8.731932490422178,Frankfurt am Main,633
+909,60599,Eastside Restaurant,Modern European Restaurant,50.108172,8.731429,"Kaiserleistraße 45, 63067 Offenbach am Main",740
+910,60599,Grüne Sosse am Main,German Restaurant,50.10596912873981,8.722670188760338,"Gerbermühlstraße 107, 60594 Frankfurt am Main, Frankfurt am Main",757
+911,60599,Grüne Soße Denkmal,Sculpture Garden,50.10508669446662,8.72138786624217,Frankfurt am Main,775
+912,60599,H Bleiweißstraße,Tram Station,50.10010096618633,8.720060700138086,"Offenbacher Landstr (Bleiweißstr.), Frankfurt am Main",778
+913,60599,H S-Bahn Offenbach Kaiserlei (West),Bus Stop,50.105392,8.740468,63067 Offenbach am Main,817
+914,60599,H Offenbach Stadtgrenze,Tram Station,50.1019150377259,8.744726913692597,"Offenbacher Landstr., Frankfurt am Main",1000
+915,65929,Fraport Arena,Basketball Stadium,50.10107361902115,8.527475388814885,"Silostr. 46, 65929 Frankfurt am Main",772
+916,65929,S Höchst Farbwerke,Light Rail Station,50.098312541165974,8.528123772258633,"Höchster Farbenstr. 1, 65931 Frankfurt am Main",468
+917,65929,Sonepar ist geöffnet für im Industriepark Höchst ansässige Firmen,Electronics Store,50.091051,8.5347241,"Brüningstr. 50, 65929 Frankfurt am Main West",471
+918,65929,"Kantine ""Ost""",Restaurant,50.094476506374,8.53875439325084,"Industriepark Höchst, 65929 Frankfurt am Main",563
+919,65929,Flohmarkt Jahrhunderthalle,Flea Market,50.098166379722976,8.520142640211928,Sili,868
+920,65929,Silobad Höchst,Pool,50.10267755285356,8.528379317696139,"Hunsrückstr. 100, Frankfurt am Main",928
+921,65931,Der Löwe - Das Lokal,German Restaurant,50.09455,8.494302,"Alt Zeilsheim  10 (Kolberger Weg), 65931 Frankfurt-Zeilsheim",743
+922,65931,REWE,Supermarket,50.0973488,8.4980075,"Bechtenwaldstraße 5, 65931 Frankfurt am Main",941
+923,65931,ALDI SÜD,Supermarket,50.0923218,8.5023468,"West-Höchster Straße 50, 65931 Frankfurt am Main",402
+924,65931,S Zeilsheim,Light Rail Station,50.09011247472155,8.506005859115628,"Ferdinand-Hofmann-Str. 1, 65931 Frankfurt am Main",439
+925,65931,Eiscafé De Gasperi,Ice Cream Shop,50.087827,8.5112246,Deutschland,804
+926,65931,S Sindlingen,Light Rail Station,50.08723843598361,8.511855459559351,"Bahnstr. 13, 65931 Frankfurt am Main",861
+927,65931,Bäckerei Brügel,Bakery,50.09732240532313,8.503767963792287,Deutschland,962
+928,65933,Frische Paradies,Gourmet Shop,50.0963926257707,8.595579964442777,"Lärchenstr. 101, 65933 Frankfurt am Main",600
+929,65933,Kölle Zoo,Pet Store,50.09888022057609,8.590060354405972,Frankfurt am Main,573
+930,65933,Lidl,Discount Store,50.107397741316255,8.587502539157867,"Oeserstraße 155, 65934 Frankfurt-Nied",912
+931,65933,McFIT,Gym / Fitness Center,50.0993384698212,8.591674707668062,"Mainzer Landstraße 633, 65933 Frankfurt am Main",449
+932,65933,Rossmann,Drugstore,50.099165210686,8.58756120177756,"Mainzer Landstraße 683, 65933 Frankfurt am Main",715
+933,65933,REWE CENTER,Supermarket,50.097784978641926,8.589792164925598,"Ernst-Wiss-Str. 9, 65933 Frankfurt am Main",663
+934,65933,Aral,Gas Station,50.10001816,8.60477687,"Mainzer Landstr. 545, 65933 Frankfurt am Main",604
+935,65933,Asia Restaurant Hahaa,Asian Restaurant,50.10000531554704,8.59679102897644,"Mainzer Landstraße 591, 65933 Frankfurt am Main",192
+936,65933,H Linnegraben,Tram Station,50.100154535243945,8.596851225460313,"Mainzer Landstr. (Zum Linnegaben), Frankfurt am Main",175
+937,65933,Cinestar,Multiplex,50.09918395919343,8.589270986087236,"Mainzer Landstr. 681, Frankfurt am Main",604
+938,65933,H4 Hotel Frankfurt Messe,Hotel,50.110515,8.595059,"Oeserstr. 180, 65933 Frankfurt am Main",984
+939,65933,Sauna / Pool,Hotel Pool,50.11047666456021,8.595101653473028,Frankfurt am Main,980
+940,65934,Niddastrand,Beach Bar,50.107413826496966,8.574601609933545,"Oeserstr. 80, 65934 Frankfurt am Main",518
+941,65934,REWE,Supermarket,50.10379627764099,8.579215763639468,"Werner-Bockelmann-Straße 7, 65934 Frankfurt am Main",364
+942,65934,REWE,Supermarket,50.09861505,8.56750096,"Mainzer Landstr. 786-790, 65934 Frankfurt am Main",673
+943,65934,Nied-Wehr-Nidda Uferweg,River,50.10549618547816,8.56562154700277,Frankfurt am Main,695
+944,65934,H Nied Kirche,Tram Station,50.09841656248925,8.56683072725411,"Mainzer Landstr. (Alt-Nied), 65934 Frankfurt am Main",723
+945,65934,Gleis 9 3/4,Gastropub,50.10486442244545,8.586326672638188,Deutschland,885
+946,65934,ALDI SÜD,Supermarket,50.098972342667395,8.585646812523901,Deutschland,908
+947,65936,Taverna Efes,Nightclub,50.11995478983226,8.57199182539759,"Sossenheimer Riedstr. 21, 65936 Frankfurt am Main",224
+948,65936,Gasthaus Zum Löwen,German Restaurant,50.11811629658237,8.564118919695671,"Alt Sossenheim 74, 65936 Frankfurt am Main",731
+949,65936,dm-drogerie markt,Drugstore,50.123979,8.585911,"Westerbachstraße 152, 65936 Frankfurt am Main",987
+950,65936,Lidl,Supermarket,50.12568380153468,8.564481139183044,"Siegener Straße 69, 65936 Sossenheim",703
+951,65936,REWE,Supermarket,50.1243067,8.5849651,"Westerbachstr. 160, 65936 Sossenheim",931
+952,65936,Bushaltestelle C.-Sonnenschein Str.,Bus Stop,50.12405216655119,8.572619310524074,Frankfurt am Main,234
+953,65936,Burger King,Fast Food Restaurant,50.12401,8.584254,Deutschland,873
+954,65936,Eiscafe Venezia,Ice Cream Shop,50.119702,8.566431,"Kirchberg, 65936 Frankfurt am Main",496
+955,65936,PENNY,Supermarket,50.12437582811057,8.565299107961891,"Siegener Str. 53-55, 65936 Frankfurt am Main",576
+956,65936,Packstation 147,Shipping Store,50.12403805848456,8.564226276125941,"Siegener Str. 22, Frankfurt am Main",630
+957,65936,Bäcker Eifler,Bakery,50.12402976617955,8.564220459915816,"Siegener Strasse 55, Frankfurt am Main",630
+958,65936,AS Eschborn (17),Intersection,50.127441179432054,8.564196825027466,"A 66 (L 3006), 65936 Frankfurt am Main",848
+959,65936,ORG-Team,Electronics Store,50.1240332955498,8.584795830622422,"Westerbachstr. 164, 65936 Frankfurt am Main",912
+960,65936,Action,Discount Store,50.123608,8.585894,"Westerbachstr. 148, 65936",977
+961,65936,Am Karpfenteich,Park,50.12904977934578,8.58087741305756,Frankfurt am Main,993

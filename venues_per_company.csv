@@ -1,0 +1,283 @@
+,Company,Venue_Name,Category,Latitude,Longitude,Address,Distance
+0,S-PRO,Hunky Dory,Cocktail Bar,50.103891712844565,8.665367323347024,"Baseler Straße 10, 60329 Frankfurt am Main",292
+1,S-PRO,Mr. Lee,Korean Restaurant,50.102041725035974,8.66038392899925,"Gutleutstr. 153, 60327 Frankfurt am Main",301
+2,S-PRO,Atlantik Fisch,Seafood Restaurant,50.10249368519658,8.6614746624474,60327 Frankfurt am Main,248
+3,S-PRO,Villa Kennedy,Hotel,50.09736040302291,8.669209385229689,"Kennedyallee 70 (Stresemannallee), 60596 Frankfurt am Main",557
+4,S-PRO,L'Osteria,Trattoria/Osteria,50.101269729761626,8.66363704057337,"Speicherstraße 1, 60327 Frankfurt am Main",58
+5,S-PRO,Hotel Europa Style,Hotel,50.10437373695801,8.66450954471947,"Baseler Straße 19, Frankfurt am Main",338
+6,S-PRO,Roomers,Hotel,50.104598835092546,8.666686713695526,"Gutleutstr. 85, 60329 Frankfurt am Main",397
+7,S-PRO,Liebieghaus Cafe,Café,50.10183336087025,8.671730358023364,Frankfurt am Main,522
+8,S-PRO,Dorade am Main,Seafood Restaurant,50.09720882935048,8.66412272241204,"Dorade am Main Carl-von-Noorden Platz 5, 60596 Frankfurt am Main",459
+9,S-PRO,Roomers Bar,Hotel Bar,50.104598645880685,8.666920387731807,"Gutleutstr. 85 (Wiesenhüttenstr.), 60329 Frankfurt am Main",404
+10,S-PRO,Cron am Hafen,Italian Restaurant,50.099457160801684,8.659221101193523,"Speicherstr. 39-45, 60327 Frankfurt am Main",427
+11,S-PRO,Liebieghaus,Art Museum,50.101799177203205,8.671614755046937,"Schaumainkai 71, 60596 Frankfurt am Main",514
+12,S-PRO,Frankfurter Botschaft,Restaurant,50.10102384178134,8.664178848266602,"Westhafenplatz 6, 60327 Frankfurt am Main",39
+13,S-PRO,Städel Museum,Art Museum,50.10337094150389,8.673733953846599,"Schaumainkai 63, 60596 Frankfurt am Main",700
+14,S-PRO,Intercity Hotel Frankfurt Hauptbahnhof Süd,Hotel,50.104717,8.662657,"Mannheimer Str. 21, 60329 Frankfurt am Main",398
+15,S-PRO,African Queen,African Restaurant,50.10312964491842,8.663036227226257,"Stuttgarter Str. 21 (Gutleutstr.), 60329 Frankfurt am Main",224
+16,S-PRO,ClubLounge@InterContinental,Lounge,50.104266748597716,8.668980816362113,Frankfurt am Main,459
+17,S-PRO,Der Fette Bulle,Burger Joint,50.107692,8.666418,"Kaiserstraße 73, 60311 Frankfurt am Main",722
+18,S-PRO,City Kiosk Yok-Yok,Convenience Store,50.10755331918962,8.668509708635826,"Münchenerstr. 32, 60329 Frankfurt am Main",751
+19,S-PRO,Saravanaa Bhavan,Indian Restaurant,50.10815979993023,8.666834235191345,"Kaiserstr 66, 60329 Frankfurt am Main",779
+20,S-PRO,Parthenon Greek Restaurant,Greek Restaurant,50.10103682814363,8.674486005718778,"Stresemannallee (Gartenstr.), Frankfurt am Main",717
+21,S-PRO,Rudergesellschaft Germania 1869,Athletics & Sports,50.10277153318719,8.672758992470607,"Schaumainkai 65, 60596 Frankfurt am Main",614
+22,S-PRO,Plank,Bar,50.107657,8.668648,"Münchener Str. 30 (Elbestr.), 60329 Frankfurt am Main",765
+23,S-PRO,Holbein's Café-Restaurant,French Restaurant,50.10292335197727,8.673752118910233,"Holbeinstr. 1, 60596 Frankfurt am Main",687
+24,S-PRO,Museumsufer,Park,50.10432702110405,8.674328327178955,"Schaumainkai, 60594 Frankfurt am Main",780
+25,S-PRO,JFK Bar,Hotel Bar,50.09730698131774,8.669232136647146,"Kennedyallee 70 (Stresemannallee), 60596 Frankfurt am Main",563
+26,S-PRO,Le Méridien Frankfurt,Hotel,50.105573,8.666769,"Wiesenhuettenplatz 38, 60329 Frankfurt am Main",500
+27,S-PRO,Mainufer,Waterfront,50.106267532738286,8.674070835113525,"Untermainkai, 60594 Frankfurt am Main",879
+28,S-PRO,Nykke & Kokki,Bistro,50.103777750841836,8.665591536036981,"Baseler Str. 10, 60329 Frankfurt a.M.",284
+29,S-PRO,Chamäleon,Restaurant,50.099697,8.658938,"Speicherstrasse 49-51 (Zanderstrasse), 60327 Frankfurt am Main",433
+30,NIX,Modulor,Arts & Crafts Store,52.50349293851038,13.410140375994867,"Prinzenstr. 85 (Moritzplatz), 10969 Berlin",114
+31,NIX,Prinzessinnengärten,Garden,52.50286547589601,13.410995108138165,"Prinzessinnenstr. 15 (Moritzplatz), 10969 Kreuzberg",205
+32,NIX,JustMusic,Music Store,52.50397422151317,13.408974409103394,"Oranienstr. 140-142, 10969 Berlin",43
+33,NIX,Flying Steps Academy,Dance Studio,52.50301816496556,13.407391986424827,Berlin,191
+34,NIX,motion*s (motion*s Tanz- und Bewegungsstudio),Dance Studio,52.50323297954792,13.408416509628294,"Prinzenstr. 85B1 (Oranienstr.), 10969 Berlin",134
+35,NIX,SPREE CrossFit,Gym / Fitness Center,52.502843806522364,13.407586669756228,"Lobeckstr. 30-50, 10969 Berlin",199
+36,NIX,Bakery & Coffee,Café,52.50616019189693,13.406130590001856,"Kommandantenstr. 34, 10969 Berlin",289
+37,NIX,Hürrem Sultan Lounge,Hookah Bar,52.503235887804195,13.412504196166992,"Oranienstr. 53, 10969 Berlin",256
+38,NIX,Dookie,Pizza Place,52.502998,13.409968,"Prinzenstrasse 85D, 10969 Berlin",158
+39,NIX,Max und Moritz,German Restaurant,52.502709184440235,13.414106992314636,"Oranienstr. 162, 10969 Berlin",379
+40,NIX,B-swingt,Dance Studio,52.50180944600324,13.411082364671932,"Ritterstraße 12 - 14, 10969 Berlin",309
+41,NIX,ORA,Cocktail Bar,52.501403,13.415892,"Oranienplatz 14, 10999 Berlin",559
+42,NIX,Buchhandlung am Moritzplatz,Bookstore,52.50356439036725,13.41027681121108,"Prinzenstr. 85, 10969 Berlin",113
+43,NIX,Die Henne,German Restaurant,52.504211725677145,13.417590759880886,"Leuschnerdamm 25 (Waldemarstr.), 10999 Berlin",569
+44,NIX,Ritter Butzke,Nightclub,52.50282340294553,13.40804611989337,"Ritterstr. 26 (Lobeckstr.), 10969 Berlin",186
+45,NIX,Nano Kaffee,Coffee Shop,52.50083112028404,13.417041244390662,"Dresdener Str. 14, 10999 Berlin",660
+46,NIX,St. Agnes,Art Gallery,52.500645241285184,13.40104614278766,"Alexandrinenstr. 118-121, 10969 Berlin",688
+47,NIX,Babylon,Indie Movie Theater,52.50064513495082,13.417128187942264,"Dresdener Str. 126, 10999 Berlin",677
+48,NIX,Obermaier Restaurant-Salon,German Restaurant,52.500206,13.4149685,"Erkelenzdamm 17, 10999 Berlin",604
+49,NIX,Butterbrot,Café,52.501656,13.417417,"Oranienstr. 168, 10999 Berlin",632
+50,NIX,Würgeengel,Cocktail Bar,52.50112878160974,13.416822217344999,"Dresdener Str. 122, 10999 Berlin",628
+51,NIX,Bonanza Roastery,Coffee Shop,52.504155208906184,13.4201276518078,"Adalbertstr. 70, 10997 Berlin",741
+52,NIX,König Gallery,Art Gallery,52.5007963346421,13.40108333958754,"Alexandrinenstr. 181-121, 10969 Berlin",676
+53,NIX,Berlinische Galerie,Art Museum,52.50349443401274,13.398402651232848,"Alte Jakobstr. 124-128, 10969 Berlin",737
+54,NIX,Picoteo,Spanish Restaurant,52.49778068926783,13.41287844565713,"Erkelenzdamm 47, 10999 Berlin",772
+55,NIX,Luzia,Bar,52.50160763417674,13.418269755829378,"Oranienstr. 34, 10999 Berlin",686
+56,NIX,minimum im Aufbau Haus,Furniture / Home Store,52.50318334,13.40982699,"Prinzenstr. 85, 10969 Berlin",136
+57,NIX,Taka Fish House,Seafood Restaurant,52.49992973763225,13.418096121513056,"Adalbertstr. 97, 10999 Berlin",778
+58,NIX,Kaffeekirsche,Coffee Shop,52.503056531388985,13.420549025126215,"Adalbertstr. 23 (Waldemarstr.), 10997 Berlin",782
+59,NIX,Cevichería,Peruvian Restaurant,52.501338223645014,13.416600211798988,"Dresdener Str. 120, 10999 Berlin",603
+60,SAP,SAP Guesthouse Kalipeh,Hotel,49.2952312579536,8.645609343179396,"Dietmar-Hopp-Allee 15, 69190 Walldorf",392
+61,SAP,Hotel Vorfelder,Hotel,49.30020829113169,8.644192456537459,"Bahnhofstr. 28, 69190 Walldorf",744
+62,SAP,China Wok,Chinese Restaurant,49.29014075299688,8.646979652179768,"Rudolf-Diesel-Str. 43, 69190 Walldorf",629
+63,SAP,Indian Garden,Indian Restaurant,49.293692904585924,8.64977305515647,"Altrottstr. 40a, 69190 Walldorf",668
+64,SAP,Ristorante Riviera,Italian Restaurant,49.30203374621055,8.639335231886655,"Hauptstr. 30, 69190 Walldorf",903
+65,SAP,Hotel Ambiente,Hotel,49.300992002500465,8.642699449010193,"Am Neuen Schulhaus 4, 69190 Walldorf",798
+66,SAP,Marktstube Walldorf,German Restaurant,49.30255524809204,8.640946365450763,"Hauptstr. 20, 69190 Walldorf",957
+67,SAP,E aktiv markt Marx,Supermarket,49.29923528,8.64498725,"Bahnhofstr. 34, 69190 Walldorf",669
+68,SAP,Supermarket Italiano,Italian Restaurant,49.29445527664677,8.648875233401148,"Altrottstr 33, Walldorf",605
+69,SAP,1st Pub,Pub,49.302106,8.640175,Walldorf,907
+70,SAP,Landhotel Sickinger Hof,Hotel,49.30126070358401,8.638109372447165,"Kapellenweg 10-13, 69190 Walldorf",832
+71,SAP,Café & Restaurant Bone' Ma,Turkish Restaurant,49.3011896301822,8.643540403724575,"Bahnhofstr. 18, 69190 Walldorf",833
+72,SAP,Rossmann,Drugstore,49.302811574730086,8.642960396599928,"Bahnhofstr. 1, 69190 Walldorf",1001
+73,SAP,ALDI SÜD,Supermarket,49.2996972233587,8.64508969642728,Deutschland,718
+74,SAP,La Tortuga,Spanish Restaurant,49.302760734326505,8.641050453656883,"Hauptstraße 18, 69190 Walldorf",980
+75,SAP,SUBWAY,Sandwich Place,49.293949618152745,8.652105215938604,"Edisonstraße 2, 69190 Walldorf",837
+76,SAP,SAP - ISZ Fitnessstudio,Gym / Fitness Center,49.29248187614664,8.639793530954732,"Dietmar-Hopp-Allee 20 (Neurottstr. 20), 69190 Walldorf",173
+77,SAP,DER RUTZ,Bakery,49.292078884956034,8.652247769179084,"Altrottstraße 50, 69190 Walldorf",873
+78,SAP,SAP Fitness Studio - WDF 19,Gym / Fitness Center,49.29322808680947,8.637298444967723,Walldorf,251
+79,SAP,Euromaster,Automotive Shop,49.29178197953231,8.641603060496575,"Daimlerstr. 28, 69190 Walldorf",253
+80,SAP,Leonardo Hotel Heidelberg-Walldorf,Hotel,49.29728937402741,8.629621243351949,"Roter Str., 69190 Walldorf",877
+81,SAP,Hotel Villa Verde,Hotel,49.30275651271262,8.64134545743213,"Hauptstraße 14 - 18, 69190 Walldorf",981
+82,SAP,SAP - WDF 08,Office,49.28781509976968,8.644454162998773,"Max-Planck-Straße, 69190 Walldorf",739
+83,SAP,Cafe Art,Café,49.29454413644823,8.6518072290647,"Kleinfeldweg 42, 69190 Walldorf",818
+84,SAP,Restaurant Landgraf,German Restaurant,49.302010000879136,8.640296739620517,"Hauptstrasse 25, 69190 Walldorf",896
+85,SAP,WOK China-Thai-Imbiss,Chinese Restaurant,49.301882,8.637120723724115,Walldorf,917
+86,SAP,Zum weißen Rössel,Hotel,49.302193788615696,8.639662411184858,"Hauptstr. 26, 69190 Walldorf",919
+87,SAP,Gasthaus Zum Stern,Mediterranean Restaurant,49.302153,8.638928,"Hauptstr. 32, 69190 Walldorf",920
+88,SAP,Leonardo Restaurant,Restaurant,49.297549,8.628646,Deutschland,953
+89,USU,Lidl,Supermarket,48.8857657,9.121626,"Schwieberdinger Str. 51, 71696 Möglingen",302
+90,USU,Ali Baba 2,Pizza Place,48.886590927612104,9.128915563393704,"Hindenburgstr. 22, 71696 Möglingen",295
+91,USU,Bäckerei Trölsch,Bakery,48.88638856843202,9.127139418021782,"Beim Rathaus, Möglingen",185
+92,USU,Eiscafe Lorenzo,Ice Cream Shop,48.88676868440323,9.12671869471006,"Rathausplatz, 71696 Möglingen",206
+93,USU,Kosmetikstudio Maria Strassburger,Miscellaneous Shop,48.88640866,9.12791938,"Hindenburgstr. 4/2, 71696 Möglingen",225
+94,USU,VR-Bank Asperg-Markgröningen eG - Geschäftsstelle Möglingen,Bank,48.8871935946157,9.126706856594824,"Ludwigsburger Straße 1, 71696 Möglingen",250
+95,USU,TV Heim Möglingen,Athletics & Sports,48.88771125087863,9.132180283333334,71696 Möglingen,563
+96,USU,M1 Fitnessclub,Gym / Fitness Center,48.889820143643476,9.12266443349648,"Raiffeisenstraße 3, 71696 Möglingen",572
+97,USU,Netto Filiale,Supermarket,48.88808231,9.13224777,"Ludwigsburger Str. 50, 71696 Möglingen",590
+98,USU,Molkereiprodukte Jurak,Deli / Bodega,48.89245,9.132109999999999,"Im Bornrain 8, 71696 Möglingen",950
+99,Cell it!,vino lounge,Bar,3.024165041637814,30.91162824448002,"Arua Town, Arua, Uganda",939
+100,Cell it!,oasis,Bar,3.024025,30.912008,"Arua (Transport Rd Arua), Arua, Uganda",947
+101,Cell it!,TRAILLER SA ZILMA,Restaurant,3.0414080476597816,30.91367125511169,"RUA L03 (AV. PEROMETRAL LESTE), BARBALHA 63180000, Uganda",998
+102,T-Systems International GmbH,Küchenfreunde,Deli / Bodega,53.570554751138445,9.98489010361897,"Grindelhof 64, 20146 Hamburg",277
+103,T-Systems International GmbH,Café Leonar,Café,53.56969012174519,9.984371729694454,"Grindelhof 59 (Bieberstr.), 20146 Hamburg",190
+104,T-Systems International GmbH,Hindukusch,Afghan Restaurant,53.567973,9.981651,"Grindelhof 15 (Allendeplatz), 20146 Hamburg",241
+105,T-Systems International GmbH,Abaton,Indie Movie Theater,53.567641412407056,9.981845059440579,"Allende-Platz 3 (Grindelhof), 20146 Hamburg",232
+106,T-Systems International GmbH,Salon Wechsel Dich,Café,53.57035933223128,9.984817962783556,"Grindelhof 62, 20146 Hamburg",256
+107,T-Systems International GmbH,Otto's Burger,Burger Joint,53.56855315412604,9.983142069947604,"Grindelhof 33, 20146 Hamburg",152
+108,T-Systems International GmbH,Hamburger Kammerspiele,Theater,53.56999572380644,9.985398799180984,"Hartungstr. 9-11, 20146 Hamburg",214
+109,T-Systems International GmbH,Spiesserei,Mediterranean Restaurant,53.56534092291712,9.983129492939364,"Grindelallee 32, 20146 Hamburg",335
+110,T-Systems International GmbH,Backecht,Bakery,53.569613125182514,9.984792461342801,"Grindelhof 64, 20146 Hamburg",174
+111,T-Systems International GmbH,Restaurant Pinakas,Greek Restaurant,53.57069110039428,9.98493334312045,"Grindelhof 64, 20146 Hamburg",292
+112,T-Systems International GmbH,Eiscafé La Veneziana,Ice Cream Shop,53.56774796989517,9.981704362570113,"Grindelallee 108, 20146 Hamburg",239
+113,T-Systems International GmbH,Falafel Haus,Falafel Restaurant,53.56604166918637,9.982109208728062,20146 Hamburg,308
+114,T-Systems International GmbH,Andere Welten,Bookstore,53.567289607613596,9.980848082805128,"Grindelallee 77, 20146 Hamburg",306
+115,T-Systems International GmbH,Diggi Smalls,Middle Eastern Restaurant,53.569512,9.979548,"Grindelallee, Hamburg",412
+116,T-Systems International GmbH,Hamburg4 | Apple Premium Reseller,Electronics Store,53.566268,9.987421,"Johnsallee 65-67, 20146 Hamburg",244
+117,T-Systems International GmbH,Mandelmehl & Zuckerei,Dessert Shop,53.56961903180254,9.98241955871681,"Rappstr. 16, 20146 Hamburg",256
+118,T-Systems International GmbH,Restaurant Brodersen,German Restaurant,53.56653131568145,9.988850005862782,"Rothenbaumchaussee 46, 20148 Hamburg",290
+119,T-Systems International GmbH,Gute Köpfe,Salon / Barbershop,53.56872353399366,9.97984742368701,"Grindelallee 132, 20146 Hamburg",367
+120,T-Systems International GmbH,Budnikowsky,Drugstore,53.56796279031677,9.980431045786094,"Grindelallee 110, 20146 Hamburg",321
+121,T-Systems International GmbH,La Monella,Vegetarian / Vegan Restaurant,53.57204591515663,9.985890320325211,"Hallerplatz 12, 20146 Hamburg",444
+122,T-Systems International GmbH,Hanse Beans,Coffee Shop,53.565298,9.983581,"Fröbelstr. 2 (Grindelallee), Hamburg",328
+123,T-Systems International GmbH,Café David,Café,53.56997591135336,9.984371459804564,"Grindelhof 63, 20146 Hamburg",220
+124,T-Systems International GmbH,Golden Temple Teehaus,Tea Room,53.56486873817241,9.983595983596958,"Grindelallee 26, 20146 Hamburg",373
+125,T-Systems International GmbH,Pony Bar,Café,53.567644415709076,9.98244717639109,"Allende-Platz 1, 20146 Hamburg",193
+126,T-Systems International GmbH,Grand Elysée,Hotel,53.56346392734716,9.990391731262207,"Rothenbaumchaussee 10, 20148 Hamburg",613
+127,T-Systems International GmbH,Feine Kost,Falafel Restaurant,53.56788200929012,9.988083943618797,"Binderstr. 13 (Rothenbaumchaussee), 20148 Hamburg",185
+128,T-Systems International GmbH,Wochenmarkt am Völkerkundemuseum,Farmers Market,53.5683022871979,9.988473815038963,"Rothenbaumchaussee 64 (Binderstraße), 20148 Hamburg",211
+129,T-Systems International GmbH,Zum tanzenden Einhorn,Cocktail Bar,53.56416999353859,9.983388485659965,"Bundesstr. 6, 20146 Hamburg",452
+130,T-Systems International GmbH,THEO'S,Steakhouse,53.563259647891606,9.989891331204179,20146 Hamburg,615
+131,T-Systems International GmbH,Wochenmarkt Turmweg,Farmers Market,53.57087237580809,9.9921536740309,"Turmweg (Rothenbaumchaussee), 20148 Hamburg",550
+132,NTT DATA,Super 8,Motel,48.188623271445735,11.591363067673049,"Am Nordring 4, 80807 München",567
+133,NTT DATA,Möbelum Naturholzmöbel,Furniture / Home Store,48.184962,11.58578167,"Ingolstädter Str 8, 80807 München",175
+134,NTT DATA,Motel One Hotel Parkstadt Schwabing,Hotel,48.178073,11.591879,"Anni-Albers-Straße 10, 80807 München",739
+135,NTT DATA,Dolzer Masskonfektionäre,Clothing Store,48.18340659622562,11.592057623194325,"Willhelm-Wagenfeld-Str. 18, 80807 München",327
+136,NTT DATA,dean&david,Salad Place,48.178883737872944,11.5940255173489,München,745
+137,NTT DATA,Motel One Lounge,Lounge,48.178624,11.59122,80807 München,663
+138,NTT DATA,Schustermann + Borenstein,Clothing Store,48.18928503934699,11.585000410721852,"Ingolstädter Str. 40, 80807 München",610
+139,NTT DATA,Grillin' me softly,Food Truck,48.182678687078166,11.595554015467604,"Täglich wechselnder Standort (Do: Max-Diamand-Str. 7), 80937 München",599
+140,NTT DATA,Hans im Glück - Burgergrill,Burger Joint,48.182277211602226,11.585422148479438,"Leopoldstr. 250 b (Otl-Aicher-Str.), 80807 München",269
+141,NTT DATA,Café Ludwig,Bar,48.17745842226446,11.579566756617497,"Klopstockstr. 10, 80804 München",960
+142,NTT DATA,Hallhuber Outlet,Outlet Store,48.18812785622428,11.584739685058594,"Frankfurter Ring 105 (Ingolstädterstrasse), 80807 München",499
+143,NTT DATA,Gaststätte Nord Ost 26,Gastropub,48.18102625430719,11.587096058814277,"Leopoldstr. 244a, 80807 München",348
+144,NTT DATA,Kindl & Schwan,Café,48.17610098923598,11.58694641393701,"Wilhelm-Hertz-Str. 8, 80805 München",895
+145,NTT DATA,Lauf-Bar,Sporting Goods Shop,48.17549697990609,11.589328118556907,München,967
+146,NTT DATA,One Cloud Bar,Cocktail Bar,48.178566,11.591215,"Anni-Albers-Str. 10, 80807 München",669
+147,NTT DATA,Bonjour Munich,Bistro,48.17828,11.593589,80807 München,780
+148,NTT DATA,Privat Bäckerei Wimmer,Bakery,48.186156764429896,11.579792063486765,"Silcherstr. 2 (Milbertshofener Str.), 80807 München",634
+149,NTT DATA,REWE,Supermarket,48.1829748,11.5937559,"Alfred-Arndt-Str. 1, 80807 München",461
+150,NTT DATA,Star Inn Hotel München Schwabing,Hotel,48.18478213403201,11.58816066315152,"Domagkstr. 11, 80807 München",78
+151,NTT DATA,Innside München Parkstadt Schwabing,Hotel,48.176988064701014,11.592626287453893,"Mies-van-der-Rothe-Str. 10, 80807 München",871
+152,NTT DATA,hasia - Asian Food & Drink,Asian Restaurant,48.18262082486448,11.594411946298132,"Alfred-Arndt-Straße 1, 80807 München",519
+153,NTT DATA,Kentucky Fried Chicken,Fried Chicken Joint,48.192900357052245,11.586261526891466,"Maria-Probst-Straße 5, 80939 München",983
+154,NTT DATA,Da Pippo,Italian Restaurant,48.187435261593755,11.575259282372896,"Frankfurter Ring 38, 80807 München",999
+155,NTT DATA,Leonardi,Cafeteria,48.18156765304559,11.596856896366436,"Marcel-Breuer-Str. 8, 80807 München",731
+156,NTT DATA,Bistro Lange,German Restaurant,48.188304297689015,11.587167833287785,"Frankfurter Ring 129, 80807 München",467
+157,NTT DATA,dm-drogerie markt,Drugstore,48.1828079,11.5941084,"Alfred-Arndt-Straße 1 (Parkstadt-Center), 80807 München",492
+158,NTT DATA,Suite Novotel Parkstadt Schwabing,Hotel,48.179845764601026,11.593549976871941,"Lyonel Feininger Strasse 22, 80807 München",640
+159,NTT DATA,Bite Delite,Café,48.18205135536673,11.597205704638785,"Domagstr. 34, 80807 München",736
+160,NTT DATA,KARE Fundgrube,Furniture / Home Store,48.19144937050114,11.592963436369581,"Lotte-Branz-Str. 6, 80939 München",901
+161,NTT DATA,Star Inn Hotel Premium,Hotel,48.184728646125116,11.587971714662011,"Weimarer Str. 2 (Domagkstr.), 80807 München",68
+162,SAS,Hauptmarkt,Plaza,49.45401932930844,11.07728954621954,"Hauptmarkt, 90403 Nürnberg",16
+163,SAS,Di Simo,Café,49.45302568620052,11.074557875976264,"Trödelmarkt 5-7, 90403 Nürnberg",219
+164,SAS,Cafe Bar Katz,Café,49.453547787019104,11.08037868330514,"Hans-Sachs-Platz 8, 90403 Nürnberg",225
+165,SAS,SORAT Hotel Saxx,Hotel,49.45435461123933,11.076155179233341,"Hauptmarkt 17, 90403 Nürnberg",98
+166,SAS,Kuhmuhne,Burger Joint,49.454423,11.074148,"Weintraubengasse 2, 90403 Nürnberg",236
+167,SAS,Vini e Panini da Georgio,Café,49.45238312593514,11.077814651488364,"Königstr. 3, 90402 Nürnberg",169
+168,SAS,Heilig-Geist-Spital,Franconian Restaurant,49.45276852624568,11.079325675964355,"Spitalgasse 16, 90403 Nürnberg",191
+169,SAS,Casa del Habano,Bar,49.45386158128288,11.07690418835304,"Hauptmarkt 9, 90403 Nürnberg",28
+170,SAS,Five Diner,Diner,49.454650889029764,11.078477228401274,"Obstmarkt 5, 90403 Nürnberg",121
+171,SAS,Block House,Steakhouse,49.45376950220494,11.077960582102605,"Hauptmarkt 12, 90403 Nürnberg",49
+172,SAS,Lorenzer Platz,Plaza,49.451405,11.079036,"Lorenzer Platz, 90402 Nürnberg",302
+173,SAS,Perfetto,Gourmet Shop,49.451354313110755,11.076906051477687,"Königstr. 14, 90402 Nürnberg",281
+174,SAS,Machhörndl Kaffee,Coffee Shop,49.45049733727411,11.076898188093066,"Brunnengasse 7-9, 90402 Nürnberg",376
+175,SAS,Henkersteg,Bridge,49.453138239992,11.073191913177565,"Henkersteg, 90403 Nürnberg",308
+176,SAS,Starbucks,Coffee Shop,49.45316614222133,11.07678686222848,"Hauptmarkt 1, 90403 Nürnberg",86
+177,SAS,Prison St. Michel,French Restaurant,49.455595476815574,11.07372319982015,"Irrerstr. 2, 90403 Nürnberg",322
+178,SAS,Finyas Taverne,Bavarian Restaurant,49.45517534127885,11.072695638387275,"Weißgerbergasse 18, 90403 Nürnberg",363
+179,SAS,Kaiserburg,Castle,49.45762182620551,11.076826940780261,"Auf der Burg 13, 90403 Nürnberg",418
+180,SAS,Hausbrauerei Altstadthof,Brewery,49.45708389199425,11.075026330155211,"Bergstr. 19-21, 90403 Nürnberg",393
+181,SAS,Buonissimo,Ice Cream Shop,49.453773917805485,11.07775864537935,"Plobenhofstr. 6, 90403 Nürnberg",35
+182,SAS,CôCô - Indochine,Vietnamese Restaurant,49.454109,11.075643,"Augustinerstraße 1, 90403 Nürnberg",122
+183,SAS,O'Shea's,Irish Pub,49.452112627943556,11.082488088341726,"Wespennest 6-8, 90403 Nürnberg",423
+184,SAS,Trödelstuben,German Restaurant,49.45328620000001,11.074637499999994,"Trödelmarkt 30, 90403 Nürnberg",203
+185,SAS,Alte Küch'n,German Restaurant,49.45577,11.074242,"Albrecht-Dürer-Str. 3, 90403 Nürnberg",305
+186,SAS,dasPaul | smart + urban,Modern European Restaurant,49.45237374069838,11.07560064382624,"Kaiserstr. 22, 90403 Nürnberg",207
+187,SAS,Atlantik Döner,Doner Restaurant,49.45043790903035,11.075040282207642,"Karolinenstr. 45, 90402 Nürnberg",415
+188,SAS,Die kleine Eismanufaktur,Ice Cream Shop,49.45505189410324,11.07223372744093,"Weißgerbergasse 28, 90403 Nürnberg",389
+189,SAS,Espresso Bar,Café,49.4507257698749,11.07501699782443,"Krebsgasse 2, 90402 Nürnberg",387
+190,SAS,Bierwerk Charakterbierbar,Beer Bar,49.452610740263246,11.07209202156961,"Unschlittplatz 9, 90403 Nürnberg",402
+191,SAS,Karstadt Steakpoint,Steakhouse,49.45129866799422,11.076779826971608,"Königstr. 14, 90402 Nürnberg",288
+192,Nagarro,Lotus Asia Markt und Imbiss,Thai Restaurant,48.099616115524384,11.528974195684295,"Hofmannstr. (Boschetsrieder Str.), 81476 München",371
+193,Nagarro,NYX Hotel Munich,Hotel,48.10219,11.529331,"Hofmannstr. 2, 81379 München",512
+194,Nagarro,Augustiner Schützengarten,Beer Garden,48.104377945412786,11.53475758362341,"Zielstattstr. 6 (Passauerstr.), 81379 München",639
+195,Nagarro,ELEMENTS,Gym,48.092355858538156,11.530494689941406,"Baierbrunner Str. (Siemensallee), München",743
+196,Nagarro,Aumüllers Brotfabrik,Bakery,48.095570448693486,11.524310263172724,"Kistlerhofstr. 70, 81379 München",783
+197,Nagarro,HI Munich Park Hostel - DJH Jugendherberge München Park,Hostel,48.099476231377075,11.543361655035298,"Miesingstrasse 4 (Thalkirchen/Zoo), 81379 München",718
+198,Nagarro,Santorini,Greek Restaurant,48.09860009704816,11.538084947097605,"Irschenhauser Str. 22, 81379 München",320
+199,Nagarro,Kyprios,Greek Restaurant,48.101983237201296,11.543869711215393,"Emil-Geis-Straße 32, 81379 München",836
+200,Nagarro,basic,Organic Grocery,48.103098986440095,11.530653267013694,"Passauerstr. 183, 81369 München",544
+201,Nagarro,Asam-Schlössl,German Restaurant,48.09523728367195,11.542571602877224,"Maria-Einsiedel-Str. 45, 81379 München",757
+202,Nagarro,Leonardo Hotel München City South,Hotel,48.10236900026179,11.53001556694749,"Hofmannstr. 1 (Hofmannstrase), 81379 München",497
+203,Nagarro,Sendling's Special Kebap House,Doner Restaurant,48.09510259511961,11.522258712803481,"Kistlerhofstr. 88, 81379 München",943
+204,Nagarro,Schöner Markt,Fruit & Vegetable Store,48.10248844137788,11.531136711956561,"Zielstattstr. 41, 81379 München",467
+205,Nagarro,AmbienteDirect,Design Studio,48.10269946445943,11.528228772734579,"Zielstattstrasse 32, München",608
+206,Nagarro,Naturbad Maria Einsiedel,Pool,48.09575965826432,11.545429229736328,"Zentralländstr. 28, 81379 München",925
+207,Nagarro,dm-drogerie markt,Drugstore,48.0999055,11.5275189,"Boschetsrieder Str. 72, 81379 München",484
+208,Nagarro,ALDI SÜD,Supermarket,48.09241,11.53113,"Baierbrunner Straße 75, 81379 München",724
+209,Nagarro,Flosslände,Beer Garden,48.09529309324168,11.546133063075322,"Zentralländstr. 30, 81379 München",993
+210,Nagarro,Mangostin Asia,Asian Restaurant,48.10023167599755,11.545920964682608,"Maria-Einsiedel-Str. 2, 81379 München",919
+211,Nagarro,Kraftwerk München,Gym / Fitness Center,48.10473849939359,11.53803174147961,"Flössergasse 8, 81369 München",746
+212,Nagarro,Pablo Panini,Italian Restaurant,48.105715,11.53796,"Flössergasse 5c (Heißstr), 81369 München",843
+213,Nagarro,Lal Qila,Indian Restaurant,48.10127741256885,11.523993818688394,81379 München,782
+214,Nagarro,Woerner's Cafehaus,Café,48.09373148312568,11.534491208864377,"Koppstr. 19, 81379 München",552
+215,Nagarro,Bella Venezia,Italian Restaurant,48.10075136487293,11.536681786263037,"Waakirchnerstr. 33, 81379 München",316
+216,Nagarro,Dillinger,American Restaurant,48.09962538504004,11.528994759580181,"Hofmannstr. 19, 81379 München",370
+217,Nagarro,Fit-Star,Gym / Fitness Center,48.095400537081126,11.52369590833926,"Kistlerhofstr. 70, 81379 München",832
+218,Nagarro,Orterer Getränkemarkt,Liquor Store,48.101729496381814,11.525781834323798,"Zielstattstr. 69, 81379 München",684
+219,Nagarro,GELATOBI,Ice Cream Shop,48.10082976416337,11.546576889666527,"Schäftlarnstr. 179, 81371 München",981
+220,Nagarro,Das kleine Backhaus,Bakery,48.100489546095915,11.538448969650746,"Boschetsrieder Straße 17, 81379 München",402
+221,Nagarro,Lidl,Supermarket,48.1007689,11.5279742,"Hofmannstr. 16, 81379 München",490
+222,X1 Group,Old Bridge,Ice Cream Shop,48.77417318950248,9.179273717618711,"Eberhardtstr. 31, Stuttgart",185
+223,X1 Group,Markthalle,Market,48.776144700913335,9.179335327968655,"Dorotheenstr. 4 (Münzstr.), 70173 Stuttgart",96
+224,X1 Group,Mata Hari,Bar,48.773798312271396,9.177704262339436,"Geißstr. 3, 70173 Stuttgart",213
+225,X1 Group,Altes Schloss,History Museum,48.7771680490656,9.179526070063032,"Schillerplatz, 70173 Stuttgart",190
+226,X1 Group,Kap Tormentoso,Bar,48.77430762152992,9.176378377145328,"Hirschstr. 27, 70173 Stuttgart",204
+227,X1 Group,Landesmuseum Württemberg,Museum,48.777143060586916,9.179541602158853,"Schillerplatz 6, 70173 Stuttgart",189
+228,X1 Group,Feinkost Böhm,Gourmet Shop,48.77807745373688,9.176316993145605,"Kronprinzstr. 6, 70173 Stuttgart",300
+229,X1 Group,Marktplatz,Plaza,48.77527972503773,9.178327885301353,"Marktplatz, 70173 Stuttgart",46
+230,X1 Group,Schlossplatz,Plaza,48.77854905890561,9.179854989051819,"Schlossplatz, 70173 Stuttgart",340
+231,X1 Group,Eduard's,Cocktail Bar,48.77553673369719,9.179934613561988,Deutschland,127
+232,X1 Group,Breuninger,Department Store,48.774936162467256,9.179795980453491,"Marktstr. 1-3, 70173 Stuttgart",143
+233,X1 Group,TATTI,Café,48.774353006532436,9.177208884196522,"Pierre-Pflimlin-Platz 3, 70173 Stuttgart",165
+234,X1 Group,Bix Jazzclub,Jazz Club,48.77317761520727,9.179495068473805,"Leonhardplatz 28, 70182 Stuttgart",294
+235,X1 Group,White Noise,Nightclub,48.77334455006335,9.178367312178084,Stuttgart,261
+236,X1 Group,Karls Kitchen,German Restaurant,48.774829799819614,9.179609741088306,"Marktstr. 1-3, 70173 Stuttgart",140
+237,X1 Group,Cortijo,Spanish Restaurant,48.77383794478617,9.178028577919903,"Eberhardstr. 10, 70173 Stuttgart",206
+238,X1 Group,Königstraße,Pedestrian Plaza,48.77819555801041,9.17809009552002,"Königstr., 70173 Stuttgart",279
+239,X1 Group,Harry's Kaffeerösterei,Coffee Shop,48.77332858535706,9.177846018110188,"Eberhardstr.10, 70173 Stuttgart",264
+240,X1 Group,Sansibar,German Restaurant,48.775330505252555,9.18048091545826,"Karlspassage, Stuttgart",171
+241,X1 Group,Vegi,Falafel Restaurant,48.773740280375605,9.176407733885991,"Steinstr. 13, 70173 Stuttgart",254
+242,X1 Group,enso Sushi & Grill,Japanese Restaurant,48.77538648763748,9.182065444129723,Stuttgart,284
+243,X1 Group,Weinhandlung & Weinbar Kreis,Wine Shop,48.77675812787134,9.178656157759413,"Dorotheenstr. 2, 70173 Stuttgart",123
+244,X1 Group,TAKESHII'S Vietnamese Cuisine,Vietnamese Restaurant,48.77400010568417,9.181813432732913,"Esslinger Str. 12 (Wagnerstr.), 70182 Stuttgart",324
+245,X1 Group,Oggi Tavola Mediterranea,Italian Restaurant,48.77883534646972,9.176265592920815,"Kleiner Schlossplatz 11, 70173 Stuttgart",378
+246,X1 Group,Karlsplatz,Park,48.776590763606954,9.180966784404692,"Münzstraße (Planie), 70173 Stuttgart",225
+247,X1 Group,Breitengrad 17,Vietnamese Restaurant,48.7725609575359,9.175469343862106,"Eberhardtstr. 35, 70173 Stuttgart",402
+248,X1 Group,Weinstube Kachelofen,German Restaurant,48.77361082363377,9.177408071429232,"Eberhardstr. 10, 70173 Stuttgart",238
+249,X1 Group,Kunstmuseum Stuttgart,Art Museum,48.77815018244672,9.177924462734401,"Kleiner Schloßplatz 1, 70173 Stuttgart",274
+250,X1 Group,Schillerplatz,Plaza,48.77717035374872,9.178736615471525,"Schillerplatz, 70173 Stuttgart",169
+251,X1 Group,Sushi-Ya,Sushi Restaurant,48.777460528735965,9.175435468797998,"Kronprinzstr. 6, 70173 Stuttgart",283
+252,Software AG,Hunky Dory,Cocktail Bar,50.103891712844565,8.665367323347024,"Baseler Straße 10, 60329 Frankfurt am Main",141
+253,Software AG,Atlantik Fisch,Seafood Restaurant,50.10249368519658,8.6614746624474,60327 Frankfurt am Main,203
+254,Software AG,Mr. Lee,Korean Restaurant,50.102041725035974,8.66038392899925,"Gutleutstr. 153, 60327 Frankfurt am Main",294
+255,Software AG,Hotel Europa Style,Hotel,50.10437373695801,8.66450954471947,"Baseler Straße 19, Frankfurt am Main",98
+256,Software AG,Roomers,Hotel,50.104598835092546,8.666686713695526,"Gutleutstr. 85, 60329 Frankfurt am Main",249
+257,Software AG,Intercity Hotel Frankfurt Hauptbahnhof Süd,Hotel,50.104717,8.662657,"Mannheimer Str. 21, 60329 Frankfurt am Main",109
+258,Software AG,Der Fette Bulle,Burger Joint,50.107692,8.666418,"Kaiserstraße 73, 60311 Frankfurt am Main",479
+259,Software AG,Roomers Bar,Hotel Bar,50.104598645880685,8.666920387731807,"Gutleutstr. 85 (Wiesenhüttenstr.), 60329 Frankfurt am Main",265
+260,Software AG,Saravanaa Bhavan,Indian Restaurant,50.10815979993023,8.666834235191345,"Kaiserstr 66, 60329 Frankfurt am Main",539
+261,Software AG,City Kiosk Yok-Yok,Convenience Store,50.10755331918962,8.668509708635826,"Münchenerstr. 32, 60329 Frankfurt am Main",550
+262,Software AG,Plank,Bar,50.107657,8.668648,"Münchener Str. 30 (Elbestr.), 60329 Frankfurt am Main",565
+263,Software AG,L'Osteria,Trattoria/Osteria,50.101269729761626,8.66363704057337,"Speicherstraße 1, 60327 Frankfurt am Main",287
+264,Software AG,Selera Malaysian Restaurant,Malay Restaurant,50.10706852147912,8.666491321542344,"Münchener Str. 52, 60329 Frankfurt am Main",421
+265,Software AG,Le Méridien Frankfurt,Hotel,50.105573,8.666769,"Wiesenhuettenplatz 38, 60329 Frankfurt am Main",308
+266,Software AG,COA - Asian food,Asian Restaurant,50.10808456697142,8.666420024233247,"Kaiserstr. 68 (Moselstr.), 60320 Frankfurt am Main",518
+267,Software AG,ClubLounge@InterContinental,Lounge,50.104266748597716,8.668980816362113,Frankfurt am Main,401
+268,Software AG,Stanley Diamond,Restaurant,50.1087588020894,8.65987094123319,"Ottostr. 16-18, 60329 Frankfurt am Main",601
+269,Software AG,7 Bello,Pizza Place,50.10814043771297,8.660022206711046,"Niddastr. 82, 60329 Frankfurt am Main",534
+270,Software AG,African Queen,African Restaurant,50.10312964491842,8.663036227226257,"Stuttgarter Str. 21 (Gutleutstr.), 60329 Frankfurt am Main",84
+271,Software AG,Alim's Fisch Imbiss,Seafood Restaurant,50.1075717412314,8.668539808641802,"Münchner Str. 35-37, 60329 Frankfurt am Main",553
+272,Software AG,Kleine Anna,Sandwich Place,50.108548,8.657944,"Mainzer Landstr. 111 (Ludwigstr.), 60329 Frankfurt am Main",651
+273,Software AG,Städel Museum,Art Museum,50.10337094150389,8.673733953846599,"Schaumainkai 63, 60596 Frankfurt am Main",740
+274,Software AG,Haferkater,Breakfast Spot,50.106293,8.663577,"Am Hauptbahnhof, 60329 Frankfurt am Main",272
+275,Software AG,Lam Frères,Vietnamese Restaurant,50.10810615694838,8.670092923656206,"Weserstrasse 12, 60 329 Frankfurt am Main",673
+276,Software AG,Akmal,Indian Restaurant,50.1079656507696,8.668584196448442,60329 Frankfurt am Main,589
+277,Software AG,Kabuki,Japanese Restaurant,50.109034837022676,8.670183015624227,"Kaiserstr. 42, 60329 Frankfurt am Main",753
+278,Software AG,mian,Chinese Restaurant,50.109864,8.664454,"Niddastr. 52, 60329 Frankfurt am Main",673
+279,Software AG,Liebieghaus Cafe,Café,50.10183336087025,8.671730358023364,Frankfurt am Main,636
+280,Software AG,Tatie,Moroccan Restaurant,50.108516,8.663248,"Am Hauptbahnhof 18, 60329 Frankfurt am Main",519
+281,Software AG,Istanbul Fisch Grill,Seafood Restaurant,50.10773437393767,8.669441196524987,"Münchener Straße, Frankfurt am Main",611
